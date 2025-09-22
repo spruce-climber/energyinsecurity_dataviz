@@ -1,0 +1,1700 @@
+"period","seriesId","seriesDescription","unit","DC_value","MD_value","VA_value"
+"2023","PACCD","All petroleum products average price in the commercial sector","Dollars per million Btu",26.19,25.61,22.97
+"2023","PAEID","All petroleum products average price in the electric power sector","Dollars per million Btu",0,20.82,19.7
+"2023","PAICD","All petroleum products average price in the industrial sector","Dollars per million Btu",19.24,24.41,23.03
+"2023","PARCD","All petroleum products average price in the residential sector","Dollars per million Btu",29.54,30.79,31.68
+"2023","PAACD","All petroleum products average price in the transportation sector","Dollars per million Btu",31.08,29.11,26.51
+"2023","PATXD","All petroleum products average price, all end-use sectors","Dollars per million Btu",29.01,28.76,26.33
+"2023","PATCD","All petroleum products average price, all sectors","Dollars per million Btu",29.01,28.74,26.32
+"2023","PACCB","All petroleum products consumed by the commercial sector","Billion Btu",989,19006,27321
+"2023","PACCP","All petroleum products consumed by the commercial sector","Thousand barrels",182,3756,5636
+"2023","PAEIB","All petroleum products consumed by the electric power sector","Billion Btu",0,1108,1278
+"2023","PAEIP","All petroleum products consumed by the electric power sector","Thousand barrels",0,184,222
+"2023","PAICP","All petroleum products consumed by the industrial sector","Thousand barrels",422,4613,8909
+"2023","PAICB","All petroleum products consumed by the industrial sector","Billion Btu",2698,26706,52030
+"2023","PAISB","All petroleum products consumed by the industrial sector excluding process fuel and intermediate products","Billion Btu",2698,26706,52030
+"2023","PARCB","All petroleum products consumed by the residential sector","Billion Btu",610,19527,23720
+"2023","PARCP","All petroleum products consumed by the residential sector","Thousand barrels",109,3893,5110
+"2023","PAACB","All petroleum products consumed by the transportation sector","Billion Btu",13964,387070,743002
+"2023","PAACP","All petroleum products consumed by the transportation sector","Thousand barrels",2707,74220,140841
+"2023","PAASB","All petroleum products consumed by the transportation sector excluding other biofuels product supplied for the United States","Billion Btu",13964,387070,743002
+"2023","PATCP","All petroleum products total consumption","Thousand barrels",3420,86666,160717
+"2023","PATCB","All petroleum products total consumption","Billion Btu",18262,453417,847351
+"2023","PASCB","All petroleum products total consumption adjusted for process fuel and intermediate products","Billion Btu",18262,453417,847350
+"2023","PATPB","All petroleum products total consumption per capita","Million Btu",26.6,72.9,97
+"2023","PATPP","All petroleum products total consumption per capita","barrels",5,13.9,18.4
+"2023","PATXB","All petroleum products total end-use consumption","Billion Btu",18262,452309,846073
+"2023","PATXP","All petroleum products total end-use consumption","Thousand barrels",3420,86483,160495
+"2023","PATXV","All petroleum products total end-use expenditures","Million dollars",529.8,13006.8,22277.4
+"2023","PATCV","All petroleum products total expenditures","Million dollars",529.8,13029.8,22302.6
+"2023","PACCV","All petroleum products total expenditures in the commercial sector","Million dollars",25.9,486.7,627.6
+"2023","PAEIV","All petroleum products total expenditures in the electric power sector","Million dollars",0,23.1,25.2
+"2023","PAICV","All petroleum products total expenditures in the industrial sector","Million dollars",51.9,651.9,1198.4
+"2023","PARCV","All petroleum products total expenditures in the residential sector","Million dollars",18,601.2,751.4
+"2023","PAACV","All petroleum products total expenditures in the transportation sector","Million dollars",434,11266.9,19700
+"2023","PMCCB","All petroleum products, excluding biofuels, consumed by the commercial sector","Billion Btu",960,18321,26441
+"2023","PMEIB","All petroleum products, excluding biofuels, consumed by the electric power sector","Billion Btu",0,1108,1277
+"2023","PMICB","All petroleum products, excluding biofuels, consumed by the industrial sector","Billion Btu",2684,26486,51741
+"2023","PMRCB","All petroleum products, excluding biofuels, consumed by the residential sector","Billion Btu",610,19527,23720
+"2023","PMACB","All petroleum products, excluding biofuels, consumed by the transportation sector","Billion Btu",13038,364343,704368
+"2023","PMTCB","All petroleum products, excluding biofuels, total consumption","Billion Btu",17292,429784,807547
+"2023","ARTXD","Asphalt and road oil average price, all end-use sectors","Dollars per million Btu",16.77,16.9,16.63
+"2023","ARTCD","Asphalt and road oil average price, all sectors","Dollars per million Btu",16.77,16.9,16.63
+"2023","ARICB","Asphalt and road oil consumed by the industrial sector","Billion Btu",2320,11972,22903
+"2023","ARICP","Asphalt and road oil consumed by the industrial sector","Thousand barrels",350,1804,3451
+"2023","ARICV","Asphalt and road oil expenditures in the industrial sector","Million dollars",38.9,202.3,381
+"2023","ARICD","Asphalt and road oil price in the industrial sector","Dollars per million Btu",16.77,16.9,16.63
+"2023","ARTCP","Asphalt and road oil total consumption","Thousand barrels",350,1804,3451
+"2023","ARTCB","Asphalt and road oil total consumption","Billion Btu",2320,11972,22903
+"2023","ARTXB","Asphalt and road oil total end-use consumption","Billion Btu",2320,11972,22903
+"2023","ARTXP","Asphalt and road oil total end-use consumption","Thousand barrels",350,1804,3451
+"2023","ARTXV","Asphalt and road oil total end-use expenditures","Million dollars",38.9,202.3,381
+"2023","ARTCV","Asphalt and road oil total expenditures","Million dollars",38.9,202.3,381
+"2023","P1TXD","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" average price, all end-use sectors","Dollars per million Btu",19.94,30.87,29.84
+"2023","P1TCD","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" average price, all sectors","Dollars per million Btu",19.94,30.87,29.84
+"2023","P1TCP","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total consumption","Thousand barrels",372,3122,5728
+"2023","P1TCB","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total consumption","Billion Btu",2452,19286,35651
+"2023","P1TXB","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total end-use consumption","Billion Btu",2452,19286,35650
+"2023","P1TXP","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total end-use consumption","Thousand barrels",372,3122,5728
+"2023","P1TXV","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total end-use expenditures","Million dollars",48,556.8,976.5
+"2023","P1TCV","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total expenditures","Million dollars",48,556.8,976.5
+"2023","P1ICD","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" average price in the  industrial sector","Dollars per million Btu",18.12,24.72,23.21
+"2023","P1ICP","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" consumed by the industrial sector","Thousand barrels",356,2568,4553
+"2023","P1ICB","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" consumed by the industrial sector","Billion Btu",2356,16160,29045
+"2023","P1ISB","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" consumed by the industrial sector excluding refinery fuel and intermediate products","Billion Btu",2356,16160,29045
+"2023","P1ICV","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" expenditures in the  industrial sector","Million dollars",42.7,399.4,674.2
+"2023","P1SCB","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total consumption adjusted for process fuel and intermediate products","Billion Btu",2407,18039,32723
+"2023","HLICK","Average factor for converting hydrocarbon gas liquids consumed by the industrial sector from physical unit to Btu","Million Btu per barrel",3.841,3.841,3.841
+"2023","HLTCK","Average factor for converting hydrocarbon gas liquids total consumption from physical unit to Btu","Million Btu per barrel",3.841,3.841,3.841
+"2023","AVTXD","Aviation gasoline average price, all end-use sectors","Dollars per million Btu",0,32.62,32.62
+"2023","AVTCD","Aviation gasoline average price, all sectors","Dollars per million Btu",0,32.62,32.62
+"2023","ABICP","Aviation gasoline blending components consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","ABICB","Aviation gasoline blending components consumed by the industrial sector","Billion Btu",0,0,0
+"2023","AVACP","Aviation gasoline consumed by the transportation sector","Thousand barrels",0,44,77
+"2023","AVACB","Aviation gasoline consumed by the transportation sector","Billion Btu",0,224,389
+"2023","AVACV","Aviation gasoline expenditures in the transportation sector","Million dollars",0,7.3,12.7
+"2023","AVACD","Aviation gasoline price in the transportation sector","Dollars per million Btu",0,32.62,32.62
+"2023","AVTCB","Aviation gasoline total consumption","Billion Btu",0,224,389
+"2023","AVTCP","Aviation gasoline total consumption","Thousand barrels",0,44,77
+"2023","AVTXB","Aviation gasoline total end-use consumption","Billion Btu",0,224,389
+"2023","AVTXP","Aviation gasoline total end-use consumption","Thousand barrels",0,44,77
+"2023","AVTXV","Aviation gasoline total end-use expenditures","Million dollars",0,7.3,12.7
+"2023","AVTCV","Aviation gasoline total expenditures","Million dollars",0,7.3,12.7
+"2023","BTVHN","Battery electric vehicle (BEV) light-duty stocks","Thousands of registered vehicles",7.8,69,81.3
+"2023","BTCAS","Battery storage generating units usage factor","Percent",0,12.7,2
+"2023","BTGBP","Battery storage units net summer capacity in all sectors","Thousand kilowatts",0,8,71
+"2023","BDCCB","Biodiesel consumed by the commercial sector","Billion Btu",0,0,0
+"2023","BDCCP","Biodiesel consumed by the commercial sector","Thousand barrels",0,0,0
+"2023","BDEIP","Biodiesel consumed by the electric power sector","Thousand barrels",0,0,0
+"2023","BDEIB","Biodiesel consumed by the electric power sector","Billion Btu",0,0,1
+"2023","BDRCP","Biodiesel consumed by the residential sector","Thousand barrels",0,0,0
+"2023","BDRCB","Biodiesel consumed by the residential sector","Billion Btu",0,0,0
+"2023","BDACP","Biodiesel consumed by the transportation sector","Thousand barrels",13,370,868
+"2023","BDACB","Biodiesel consumed by the transportation sector","Billion Btu",72,1981,4652
+"2023","BDPRP","Biodiesel liquids production","Thousand barrels",0,0,22
+"2023","BDSUB","Biodiesel product supplied","Billion Btu",45,1247,2928
+"2023","BDSUP","Biodiesel product supplied","Thousand barrels",8,233,546
+"2023","BDCUP","Biodiesel product supplied portion to the commercial sector","Thousand barrels",0,0,0
+"2023","BDCUB","Biodiesel product supplied portion to the commercial sector","Billion Btu",0,0,0
+"2023","BDEUB","Biodiesel product supplied portion to the electric power sector","Billion Btu",0,0,1
+"2023","BDEUP","Biodiesel product supplied portion to the electric power sector","Thousand barrels",0,0,0
+"2023","BDXUP","Biodiesel product supplied portion to the end-use sectors","Thousand barrels",8,233,546
+"2023","BDXUB","Biodiesel product supplied portion to the end-use sectors","Billion Btu",45,1247,2927
+"2023","BDRUB","Biodiesel product supplied portion to the residential sector","Billion Btu",0,0,0
+"2023","BDRUP","Biodiesel product supplied portion to the residential sector","Thousand barrels",0,0,0
+"2023","BDAUB","Biodiesel product supplied portion to the transportation sector","Billion Btu",45,1247,2927
+"2023","BDAUP","Biodiesel product supplied portion to the transportation sector","Thousand barrels",8,233,546
+"2023","BDFDB","Biodiesel production (total biomass inputs as feedstock), including liquids and losses & co-products","Billion Btu",0,0,120
+"2023","BDCBP","Biodiesel refinery and blender net inputs portion to the commercial sector","Thousand barrels",0,0,0
+"2023","BDCBB","Biodiesel refinery and blender net inputs portion to the commercial sector","Billion Btu",0,0,0
+"2023","BDRBP","Biodiesel refinery and blender net inputs portion to the residential sector","Thousand barrels",0,0,0
+"2023","BDRBB","Biodiesel refinery and blender net inputs portion to the residential sector","Billion Btu",0,0,0
+"2023","BDABP","Biodiesel refinery and blender net inputs portion to the transportation sector","Thousand barrels",5,137,322
+"2023","BDABB","Biodiesel refinery and blender net inputs portion to the transportation sector","Billion Btu",27,735,1725
+"2023","BDTCP","Biodiesel total consumption","Thousand barrels",13,370,868
+"2023","BDTCB","Biodiesel total consumption","Billion Btu",72,1981,4653
+"2023","BDTXP","Biodiesel total end-use consumption","Thousand barrels",13,370,868
+"2023","BDTXB","Biodiesel total end-use consumption","Billion Btu",72,1981,4652
+"2023","BDRIB","Biodiesel total refinery and blender net inputs","Billion Btu",27,735,1725
+"2023","BDRIP","Biodiesel total refinery and blender net inputs","Thousand barrels",5,137,322
+"2023","BFPRP","Biofuels liquid production","Thousand barrels",0,0,22
+"2023","BFPRB","Biofuels production (total biomass inputs as feedstock), including liquids and losses & co-products","Billion Btu",0,0,120
+"2023","BFTCB","Biofuels total consumption","Billion Btu",970,23633,39805
+"2023","BMCAS","Biomass generating units capacity factor","Percent",55.4,52.4,60
+"2023","BMTCB","Biomass total consumption","Billion Btu",1984,37140,155917
+"2023","BYICP","Butylene from refineries consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","BYICB","Butylene from refineries consumed by the industrial sector","Billion Btu",0,0,0
+"2023","BYTCB","Butylene from refineries total consumption","Billion Btu",0,0,0
+"2023","BYTCP","Butylene from refineries total consumption","Thousand barrels",0,0,0
+"2023","CDTCR","Carbon intensity of energy supply (CO2 emissions divided by total energy consumption less interstate flow of electricity)","Metric tons CO2 per billion Btu",53,49.9,47.2
+"2023","CDEGR","Carbon intensity of the economy (CO2 emissions divided by real GDP)","Metric tons CO2 per million chained (2017) dollars",16.8,115,158.3
+"2023","CLTCE","Coal CO2 emissions for all sectors","Million metric tons CO2  ",0,2.9,4.4
+"2023","CLCCE","Coal CO2 emissions for the commercial sector","Million metric tons CO2",0,0,0
+"2023","CLEIE","Coal CO2 emissions for the electric power sector","Million metric tons CO2",0,2.1,1.4
+"2023","CLICE","Coal CO2 emissions for the industrial sector","Million metric tons CO2",0,0.8,2.9
+"2023","CLRCE","Coal CO2 emissions for the residential sector (through 2008)","Million metric tons CO2",0,0,0
+"2023","CLACE","Coal CO2 emissions for the transportation sector (through 1977)","Million metric tons CO2",0,0,0
+"2023","CLTXD","Coal average price, all end-use sectors","Dollars per million Btu",0,3.35,6.43
+"2023","CLTCD","Coal average price, all sectors","Dollars per million Btu",0,3.49,6.03
+"2023","CLRFB","Coal consumed as refinery fuel","Billion Btu",0,0,0
+"2023","CLKCB","Coal consumed at coke plants (coking coal)","Billion Btu",0,0,24241
+"2023","CLKCP","Coal consumed by coke plants (coking coal)","Thousand short tons",0,0,832
+"2023","CLOCP","Coal consumed by industrial users other than coke plants","Thousand short tons",0,372,277
+"2023","CLOCB","Coal consumed by industrial users other than coke plants","Billion Btu",0,8571,7223
+"2023","CLCCP","Coal consumed by the commercial sector","Thousand short tons",0,0,9
+"2023","CLCCB","Coal consumed by the commercial sector","Billion Btu",0,0,241
+"2023","CLEIP","Coal consumed by the electric power sector","Thousand short tons",0,902,775
+"2023","CLEIB","Coal consumed by the electric power sector","Billion Btu",0,21779,15080
+"2023","CLICP","Coal consumed by the industrial sector","Thousand short tons",0,372,1110
+"2023","CLICB","Coal consumed by the industrial sector","Billion Btu",0,8571,31464
+"2023","CLISB","Coal consumed by the industrial sector excluding refinery fuel","Billion Btu",0,8571,31464
+"2023","CLOSB","Coal consumed by the industrial sector other than coke plants excluding refinery fuel","Billion Btu",0,8571,7223
+"2023","CLRCB","Coal consumed by the residential sector","Billion Btu",0,0,0
+"2023","CLRCP","Coal consumed by the residential sector","Thousand short tons",0,0,0
+"2023","CLACB","Coal consumed by the transportation sector","Billion Btu",0,0,0
+"2023","CLACP","Coal consumed by the transportation sector","Thousand short tons",0,0,0
+"2023","CLKCV","Coal expenditures at coke plants","Million dollars",0,0,156.6
+"2023","CLCCV","Coal expenditures in the commercial sector","Million dollars",0,0,1.7
+"2023","CLEIV","Coal expenditures in the electric power sector","Million dollars",0,77.3,78.4
+"2023","CLICV","Coal expenditures in the industrial sector","Million dollars",0,28.7,202
+"2023","CLOCV","Coal expenditures in the industrial sector other than coke plants","Million dollars",0,28.7,45.4
+"2023","CLRCV","Coal expenditures in the residential sector","Million dollars",0,0,0
+"2023","CLACV","Coal expenditures in the transportation sector","Million dollars",0,0,0
+"2023","CLCAS","Coal generating units capacity factor","Percent",0,13.3,9.9
+"2023","CLGBP","Coal generating units net summer capacity in all sectors","Thousand kilowatts",0,1453,1530
+"2023","CLKCD","Coal price at coke plants","Dollars per million Btu",0,0,6.46
+"2023","CLCCD","Coal price in the commercial sector","Dollars per million Btu",0,0,7.24
+"2023","CLEID","Coal price in the electric power sector","Dollars per million Btu",0,3.55,5.2
+"2023","CLICD","Coal price in the industrial sector","Dollars per million Btu",0,3.35,6.42
+"2023","CLOCD","Coal price in the industrial sector other than coke plants","Dollars per million Btu",0,3.35,6.28
+"2023","CLRCD","Coal price in the residential sector","Dollars per million Btu",0,0,0
+"2023","CLACD","Coal price in the transportation sector","Dollars per million Btu",0,0,0
+"2023","CLPRB","Coal production","Billion Btu",0,30335,282790
+"2023","CLPRP","Coal production","Thousand short tons",0,1274,10624
+"2023","CLTCP","Coal total consumption","Thousand short tons",0,1274,1894
+"2023","CLTCB","Coal total consumption","Billion Btu",0,30349,46785
+"2023","CLSCB","Coal total consumption adjusted for process fuel","Billion Btu",0,30349,46785
+"2023","CLTXP","Coal total end-use consumption","Thousand barrels",0,372,1119
+"2023","CLTXB","Coal total end-use consumption","Billion Btu",0,8571,31705
+"2023","CLTXV","Coal total end-use expenditures","Million dollars",0,28.7,203.7
+"2023","CLTCV","Coal total expenditures","Million dollars",0,106,282.1
+"2023","HVCAS","Conventional hydroelectric generating units capacity factor","Percent",0,41,18.3
+"2023","HVGBP","Conventional hydroelectric power generating units net summer capacity in all sectors","Thousand kilowatts",0,515,867
+"2023","ZWCDP","Cooling degree days (CDD)","Days",1489,1105,1074
+"2023","COICP","Crude oil consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","COICB","Crude oil consumed by the industrial sector","Billion Btu",0,0,0
+"2023","PAPRB","Crude oil production (including lease condensate)","Billion Btu",0,0,23
+"2023","PAPRP","Crude oil production (including lease condensate)","Thousand barrels",0,0,4
+"2023","GDPRV","Current-dollar gross domestic product (GDP)","Million dollars",176501.7,515607.3,719896.9
+"2023","EVDCN","DC fast charging ports for electric vehicles","Number",57,990,1167
+"2023","EVDCR","DC fast charging ports per location","Number",5.18,3.22,4.05
+"2023","WDEXB","Densified biomass exports (available for 2016 forward)","Billion Btu",0,0,9676
+"2023","DKEID","Distillate fuel oil (including kerosene-type jet fuel before 2001) average price in the electric power sector","Dollars per million Btu",0,22.44,19.71
+"2023","DKEIB","Distillate fuel oil (including kerosene-type jet fuel before 2001) consumed by the electric power sector","Billion Btu",0,513,1277
+"2023","DKEIP","Distillate fuel oil (including kerosene-type jet fuel before 2001) consumed by the electric power sector","Thousand barrels",0,89,222
+"2023","DKEIV","Distillate fuel oil (including kerosene-type jet fuel before 2001) expenditures in the electric power sector","Million dollars",0,11.5,25.2
+"2023","DFTXD","Distillate fuel oil average price, all end-use sectors","Dollars per million Btu",29.73,30.01,28.8
+"2023","DFTCD","Distillate fuel oil average price, all sectors","Dollars per million Btu",29.73,29.96,28.74
+"2023","DFRFB","Distillate fuel oil consumed as refinery fuel","Billion Btu",0,0,0
+"2023","DFCCB","Distillate fuel oil consumed by the commercial sector","Billion Btu",590,6908,8103
+"2023","DFCCP","Distillate fuel oil consumed by the commercial sector","Thousand barrels",102,1197,1404
+"2023","DFCSB","Distillate fuel oil consumed by the commercial sector including biofuels product supplied","Billion Btu",590,6908,8103
+"2023","DFEIP","Distillate fuel oil consumed by the electric power sector","Thousand barrels",0,89,222
+"2023","DFEIB","Distillate fuel oil consumed by the electric power sector","Billion Btu",0,513,1277
+"2023","DFICP","Distillate fuel oil consumed by the industrial sector","Thousand barrels",20,1016,2608
+"2023","DFICB","Distillate fuel oil consumed by the industrial sector","Billion Btu",117,5856,15034
+"2023","DFISB","Distillate fuel oil consumed by the industrial sector excluding refinery fuel","Billion Btu",117,5856,15034
+"2023","DFRCP","Distillate fuel oil consumed by the residential sector","Thousand barrels",100,2326,2010
+"2023","DFRCB","Distillate fuel oil consumed by the residential sector","Billion Btu",576,13420,11597
+"2023","DFRSB","Distillate fuel oil consumed by the residential sector including biofuels product supplied","Billion Btu",576,13420,11597
+"2023","DFACP","Distillate fuel oil consumed by the transportation sector","Thousand barrels",397,10942,25693
+"2023","DFACB","Distillate fuel oil consumed by the transportation sector","Billion Btu",2287,63081,148114
+"2023","DFASB","Distillate fuel oil consumed by the transportation sector including biofuels product supplied","Billion Btu",2332,64328,151041
+"2023","DFCCV","Distillate fuel oil expenditures in the commercial sector","Million dollars",13.7,162.4,179.1
+"2023","DFEIV","Distillate fuel oil expenditures in the electric power sector","Million dollars",0,11.5,25.2
+"2023","DFICV","Distillate fuel oil expenditures in the industrial sector","Million dollars",2.7,135.8,356
+"2023","DFRCV","Distillate fuel oil expenditures in the residential sector","Million dollars",16.8,385.4,330.1
+"2023","DFACV","Distillate fuel oil expenditures in the transportation sector","Million dollars",74.2,2032.4,4485.5
+"2023","DFCCD","Distillate fuel oil price in the commercial sector","Dollars per million Btu",23.29,23.51,22.11
+"2023","DFEID","Distillate fuel oil price in the electric power sector","Dollars per million Btu",0,22.44,19.71
+"2023","DFICD","Distillate fuel oil price in the industrial sector","Dollars per million Btu",23.27,23.18,23.68
+"2023","DFRCD","Distillate fuel oil price in the residential sector","Dollars per million Btu",29.21,28.72,28.47
+"2023","DFACD","Distillate fuel oil price in the transportation sector","Dollars per million Btu",31.81,31.59,29.7
+"2023","DFTCP","Distillate fuel oil total consumption","Thousand barrels",619,15570,31937
+"2023","DFTCB","Distillate fuel oil total consumption","Billion Btu",3570,89778,184125
+"2023","DFSCB","Distillate fuel oil total consumption adjusted for process fuel","Billion Btu",3615,91025,187052
+"2023","DFTXP","Distillate fuel oil total end-use consumption","Thousand barrels",619,15481,31715
+"2023","DFTXB","Distillate fuel oil total end-use consumption","Billion Btu",3570,89265,182848
+"2023","DFTXV","Distillate fuel oil total end-use expenditures","Million dollars",107.5,2716,5350.9
+"2023","DFTCV","Distillate fuel oil total expenditures","Million dollars",107.5,2727.5,5376
+"2023","DACCP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the commercial sector","Thousand barrels",102,1197,1404
+"2023","DACCB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the commercial sector","Billion Btu",590,6908,8103
+"2023","DAEIP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the electric power sector","Thousand barrels",0,89,222
+"2023","DAEIB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the electric power sector","Billion Btu",0,513,1278
+"2023","DAICP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the industrial sector","Thousand barrels",20,1016,2608
+"2023","DAICB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the industrial sector","Billion Btu",117,5856,15034
+"2023","DARCB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the residential sector","Billion Btu",576,13420,11597
+"2023","DARCP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the residential sector","Thousand barrels",100,2326,2010
+"2023","DAACP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the transportation sector","Thousand barrels",405,11175,26239
+"2023","DAACB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the transportation sector","Billion Btu",2332,64328,151041
+"2023","DMACP","Distillate fuel oil, excluding biodiesel and renewable diesel, consumed by the transportation sector","Thousand barrels",392,10805,25371
+"2023","DMACB","Distillate fuel oil, excluding biodiesel and renewable diesel, consumed by the transportation sector","Billion Btu",2260,62347,146390
+"2023","DMTCB","Distillate fuel oil, excluding biodiesel and renewable diesel, total consumption","Billion Btu",3543,89044,182400
+"2023","DMTCP","Distillate fuel oil, excluding biodiesel and renewable diesel, total consumption","Thousand barrels",614,15433,31615
+"2023","DMCCB","Distillate fuel oil, excluding biofuels, consumed by the commercial sector","Billion Btu",590,6908,8103
+"2023","DMCCP","Distillate fuel oil, excluding biofuels, consumed by the commercial sector","Thousand barrels",102,1197,1404
+"2023","DMEIB","Distillate fuel oil, excluding biofuels, consumed by the electric power sector","Billion Btu",0,513,1277
+"2023","DMEIP","Distillate fuel oil, excluding biofuels, consumed by the electric power sector","Thousand barrels",0,89,222
+"2023","DMICB","Distillate fuel oil, excluding biofuels, consumed by the industrial sector","Billion Btu",117,5856,15034
+"2023","DMICP","Distillate fuel oil, excluding biofuels, consumed by the industrial sector","Thousand barrels",20,1016,2608
+"2023","DMRCP","Distillate fuel oil, excluding biofuels, consumed by the residential sector","Thousand barrels",100,2326,2010
+"2023","DMRCB","Distillate fuel oil, excluding biofuels, consumed by the residential sector","Billion Btu",576,13420,11597
+"2023","ELVHS","Electric vehicle (EV) share of total light-duty vehicles","Percent",3.9,2.1,1.5
+"2023","EVNNP","Electric vehicle charging locations with both networked and non-networked ports","Number",4,8,9
+"2023","EVPPP","Electric vehicle charging locations with both public and private ports","Number",3,26,40
+"2023","EVNTP","Electric vehicle charging locations with networked ports only","Number",358,1558,1353
+"2023","EVNOP","Electric vehicle charging locations with non-networked ports only","Number",38,270,288
+"2023","EVPVP","Electric vehicle charging locations with private ports only","Number",41,106,101
+"2023","EVPUP","Electric vehicle charging locations with public ports only","Number",356,1704,1509
+"2023","ESTXD","Electricity average price, all end-use sectors","Dollars per million Btu",48.36,42.03,31.29
+"2023","ESTCD","Electricity average price, all sectors","Dollars per million Btu",48.36,42.03,31.29
+"2023","ESCCB","Electricity consumed by (sales to ultimate customers in) the commercial sector","Billion Btu",23987,92335,251830
+"2023","ESCCP","Electricity consumed by (sales to ultimate customers in) the commercial sector","Million kilowatthours",7030,27062,73807
+"2023","ESICB","Electricity consumed by (sales to ultimate customers in) the industrial sector","Billion Btu",602,11790,51781
+"2023","ESICP","Electricity consumed by (sales to ultimate customers in) the industrial sector","Million kilowatthours",176,3456,15176
+"2023","ESRCB","Electricity consumed by (sales to ultimate customers in) the residential sector","Billion Btu",8092,89080,147043
+"2023","ESRCP","Electricity consumed by (sales to ultimate customers in) the residential sector","Million kilowatthours",2372,26108,43096
+"2023","ESRPP","Electricity consumed by (sales to ultimate customers in) the residential sector per capita","Kilowatthours",3451,4199,4934
+"2023","ESACB","Electricity consumed by (sales to ultimate customers in) the transportation sector","Billion Btu",1028,1392,818
+"2023","ESACP","Electricity consumed by (sales to ultimate customers in) the transportation sector","Million kilowatthours",301,408,240
+"2023","ESRFB","Electricity consumed by refineries","Billion Btu",0,0,0
+"2023","BTVHP","Electricity consumed for battery electric vehicle (BEV) use","Million kilowatthours",13,105,123
+"2023","ESVHP","Electricity consumed for electric vehicle (EV) use","Million kilowatthours",19,153,167
+"2023","PHVHP","Electricity consumed for plug-in hybrid electric vehicle (PHEV) use","Million kilowatthours",6,48,45
+"2023","ESCCV","Electricity expenditures in the commercial sector","Million dollars",1191,3456.5,6604.4
+"2023","ESICV","Electricity expenditures in the industrial sector","Million dollars",19.2,343.6,1353
+"2023","ESRCV","Electricity expenditures in the residential sector","Million dollars",390,4333.2,6145.5
+"2023","ESACV","Electricity expenditures in the transportation sector","Million dollars",29.9,45.8,25
+"2023","ELEXP","Electricity exported from the United States","Million kilowatthours",0,0,0
+"2023","ELEXB","Electricity exported from the United States","Billion Btu",0,0,0
+"2023","ELEXD","Electricity exports average price","Dollars per million Btu",0,0,0
+"2023","ELEXV","Electricity exports expenditures","Million dollars",0,0,0
+"2023","ELIMP","Electricity imported into the United States","Million kilowatthours",0,0,0
+"2023","ELIMB","Electricity imported into the United States","Billion Btu",0,0,0
+"2023","ELIMD","Electricity imports average price","Dollars per million Btu",0,0,0
+"2023","ELIMV","Electricity imports expenditures","Million dollars",0,0,0
+"2023","ESCCD","Electricity price in the commercial sector","Dollars per million Btu",49.65,37.43,26.23
+"2023","ESICD","Electricity price in the industrial sector","Dollars per million Btu",31.81,29.15,26.13
+"2023","ESRCD","Electricity price in the residential sector","Dollars per million Btu",48.2,48.64,41.79
+"2023","ESACD","Electricity price in the transportation sector","Dollars per million Btu",29.12,32.9,30.53
+"2023","ESISB","Electricity sales to the industrial sector excluding refinery use","Billion Btu",602,11790,51781
+"2023","ESTCP","Electricity total consumption (electricity sales to ultimate customers)","Million kilowatthours",9880,57033,132319
+"2023","ESTCB","Electricity total consumption (electricity sales to ultimate customers)","Billion Btu",33710,194597,451471
+"2023","ESTPP","Electricity total consumption (electricity sales to ultimate customers) per capita","Kilowatthours",14374,9174,15149
+"2023","ESSCB","Electricity total consumption adjusted for process fuel","Billion Btu",33710,194597,451471
+"2023","ESTXP","Electricity total end-use consumption (electricity sales to ultimate customers)","Million kilowatthours",9880,57033,132319
+"2023","ESTXB","Electricity total end-use consumption (electricity sales to ultimate customers)","Billion Btu",33710,194597,451471
+"2023","ESTXV","Electricity total end-use expenditures","Million dollars",1630.1,8179.1,14127.9
+"2023","ESTCV","Electricity total expenditures","Million dollars",1630.1,8179.1,14127.9
+"2023","TNCCB","End-use energy consumption in the commercial sector","Billion Btu",41206,184233,364423
+"2023","TNICB","End-use energy consumption in the industrial sector","Billion Btu",3300,63623,311413
+"2023","TNRCB","End-use energy consumption in the residential sector","Billion Btu",19773,192899,271267
+"2023","TNACB","End-use energy consumption in the transportation sector","Billion Btu",15670,417006,756294
+"2023","TEGDS","Energy expenditures as percent of current-dollar GDP","Percent",1.44,4.59,5.48
+"2023","BDLCB","Energy losses and co-products from the production of biodiesel","Billion Btu",0,0,2
+"2023","BFLCB","Energy losses and co-products from the production of biofuels","Billion Btu",0,0,2
+"2023","EMLCB","Energy losses and co-products from the production of fuel ethanol","Billion Btu",0,0,0
+"2023","EQICB","Ethane consumed by the industrial sector","Billion Btu",0,0,0
+"2023","EQICP","Ethane consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","EQTCB","Ethane total consumption","Billion Btu",0,0,0
+"2023","EQTCP","Ethane total consumption","Thousand barrels",0,0,0
+"2023","EYICP","Ethylene from refineries consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","EYICB","Ethylene from refineries consumed by the industrial sector","Billion Btu",0,0,0
+"2023","EYTCP","Ethylene from refineries total consumption","Thousand barrels",0,0,0
+"2023","EYTCB","Ethylene from refineries total consumption","Billion Btu",0,0,0
+"2023","BDEIK","Factor for converting biodiesel consumed by the electric power sector from physical units to Btu","Million Btu per barrel",0,0,4.98
+"2023","BDTCK","Factor for converting biodiesel total consumption from physical units to Btu","Million Btu per barrel",5.359,5.359,5.359
+"2023","CLKCK","Factor for converting coal consumed at coke plants from physical units to Btu","Million Btu per short ton",0,0,29.126
+"2023","CLOCK","Factor for converting coal consumed by industrial users other than coke plants from physical units to Btu","Million Btu per short ton",0,23.044,26.045
+"2023","CLEIK","Factor for converting coal consumed by the electric power sector from physical units to Btu","Million Btu per short ton",0,24.134,19.457
+"2023","CLHCK","Factor for converting coal consumed by the residential and commercial sectors from physical units to Btu","Million Btu per short ton",0,0,25.946
+"2023","CLACK","Factor for converting coal consumed by the transportation sector from physical units to Btu","Million Btu per short ton",0,0,0
+"2023","CLPRK","Factor for converting coal production from physical units to Btu","Million Btu per short ton",0,23.811,26.619
+"2023","COPRK","Factor for converting crude oil production from physical units to Btu for the United States","Million Btu per barrel",0,0,5.689
+"2023","NGMPK","Factor for converting marketed natural gas production from physical units to Btu","Thousand Btu per cubic feet",0,1.039,1.05
+"2023","NGEIK","Factor for converting natural gas consumed by the electric power sector from physical units to Btu","Thousand Btu per cubic foot",0,1.039,1.043
+"2023","NGTCK","Factor for converting natural gas total consumption from physical units to Btu","Thousand Btu per cubic foot",1.033,1.039,1.05
+"2023","NGTXK","Factor for converting natural gas used by end-use sectors from physical units to Btu","Thousand Btu per cubic foot",1.033,1.039,1.059
+"2023","FFTCE","Fossil fuel CO2 emissions for all sectors","Million metric tons CO2",2.5,48.6,94.6
+"2023","FFCCE","Fossil fuel CO2 emissions for the commercial sector","Million metric tons CO2",0.9,5,5.7
+"2023","FFEIE","Fossil fuel CO2 emissions for the electric power sector","Million metric tons CO2",0,8.3,21.4
+"2023","FFICE","Fossil fuel CO2 emissions for the industrial sector","Million metric tons CO2",0,2.5,10.8
+"2023","FFRCE","Fossil fuel CO2 emissions for the residential sector","Million metric tons CO2",0.6,5.3,5.7
+"2023","FFACE","Fossil fuel CO2 emissions for the transportation sector","Million metric tons CO2",1,27.5,51
+"2023","FFGBP","Fossil fuel total generating units net summer capacity in all sectors","Thousand kilowatts",21,8742,15994
+"2023","FFTCB","Fossil fuels total consumption","Billion Btu",43528,764803,1510329
+"2023","EMFDB","Fuel ethanol production (total biomass inputs as feedstock), including liquids and losses & co-products","Billion Btu",0,0,0
+"2023","ENPRP","Fuel ethanol production, including denaturant","Thousand barrels",0,0,0
+"2023","EMCCB","Fuel ethanol, excluding denaturant, consumed by the commercial sector ","Billion Btu",29,685,880
+"2023","EMICB","Fuel ethanol, excluding denaturant, consumed by the industrial sector ","Billion Btu",14,221,289
+"2023","EMACB","Fuel ethanol, excluding denaturant, consumed by the transportation sector   ","Billion Btu",854,20746,33982
+"2023","EMTCB","Fuel ethanol, excluding denaturant, total consumption","Billion Btu",898,21652,35151
+"2023","ENCCP","Fuel ethanol, including denaturant, consumed by the commercial sector","Thousand barrels",8,197,253
+"2023","ENICP","Fuel ethanol, including denaturant, consumed by the industrial sector","Thousand barrels",4,63,83
+"2023","ENACP","Fuel ethanol, including denaturant, consumed by the transportation sector","Thousand barrels",246,5962,9766
+"2023","ENTCP","Fuel ethanol, including denaturant, total consumption","Thousand barrels",258,6222,10102
+"2023","GEEGP","Geothermal electricity net generation in the electric power sector","Million kilowatthours",0,0,0
+"2023","GECCB","Geothermal energy consumed by the commercial sector","Billion Btu",0,0,885
+"2023","GEICB","Geothermal energy consumed by the industrial sector","Billion Btu",0,0,0
+"2023","GERCB","Geothermal energy consumed by the residential sector","Billion Btu",22,570,816
+"2023","GEEGB","Geothermal energy consumed for electricity generation by the electric power sector","Billion Btu",0,0,0
+"2023","GETCB","Geothermal energy total consumption","Billion Btu",22,570,1701
+"2023","GETXB","Geothermal energy total end-use consumption","Billion Btu",22,570,1701
+"2023","GECAS","Geothermal generating units capacity factor","Percent",0,0,0
+"2023","GEGBP","Geothermal generating units net summer capacity in all sectors","Thousand kilowatts",0,0,0
+"2023","ZWHDP","Heating degree days (HDD)","Days",3272,3827,3632
+"2023","HLTXD","Hydrocarbon gas liquids average price, all end-use sectors","Dollars per million Btu",26.28,27.78,26.27
+"2023","HLTCD","Hydrocarbon gas liquids average price, all sectors","Dollars per million Btu",26.28,27.78,26.27
+"2023","HLRFB","Hydrocarbon gas liquids consumed as refinery fuel and intermediate products","Billion Btu",0,0,0
+"2023","HLCCB","Hydrocarbon gas liquids consumed by the commercial sector","Billion Btu",4,2661,6875
+"2023","HLCCP","Hydrocarbon gas liquids consumed by the commercial sector","Thousand barrels",1,693,1790
+"2023","HLICP","Hydrocarbon gas liquids consumed by the industrial sector","Thousand barrels",8,426,837
+"2023","HLICB","Hydrocarbon gas liquids consumed by the industrial sector","Billion Btu",29,1635,3215
+"2023","HLISB","Hydrocarbon gas liquids consumed by the industrial sector adjusted for processed fuel","Billion Btu",29,1635,3215
+"2023","HLRCP","Hydrocarbon gas liquids consumed by the residential sector","Thousand barrels",9,1520,2981
+"2023","HLRCB","Hydrocarbon gas liquids consumed by the residential sector","Billion Btu",34,5839,11451
+"2023","HLACP","Hydrocarbon gas liquids consumed by the transportation sector","Thousand barrels",0,45,53
+"2023","HLACB","Hydrocarbon gas liquids consumed by the transportation sector","Billion Btu",0,173,202
+"2023","HLCCV","Hydrocarbon gas liquids expenditures in the commercial sector","Million dollars",0.1,48.3,118
+"2023","HLICV","Hydrocarbon gas liquids expenditures in the industrial sector","Million dollars",0.5,27.9,50.1
+"2023","HLRCV","Hydrocarbon gas liquids expenditures in the residential sector","Million dollars",1.2,206.5,399
+"2023","HLACV","Hydrocarbon gas liquids expenditures in the transportation sector","Million dollars",0,3.7,4
+"2023","HLCCD","Hydrocarbon gas liquids price in the commercial sector","Dollars per million Btu",18.14,18.14,17.17
+"2023","HLICD","Hydrocarbon gas liquids price in the industrial sector","Dollars per million Btu",17.08,17.08,15.6
+"2023","HLRCD","Hydrocarbon gas liquids price in the residential sector","Dollars per million Btu",35.22,35.36,34.84
+"2023","HLACD","Hydrocarbon gas liquids price in the transportation sector","Dollars per million Btu",18.86,21.2,19.87
+"2023","HLTCB","Hydrocarbon gas liquids total consumption","Billion Btu",68,10308,21742
+"2023","HLTCP","Hydrocarbon gas liquids total consumption","Thousand barrels",18,2684,5661
+"2023","HLSCB","Hydrocarbon gas liquids total consumption adjusted for processed fuel","Billion Btu",68,10308,21742
+"2023","HLTXB","Hydrocarbon gas liquids total end-use consumption","Billion Btu",68,10308,21742
+"2023","HLTXP","Hydrocarbon gas liquids total end-use consumption","Thousand barrels",18,2684,5661
+"2023","HLTXV","Hydrocarbon gas liquids total end-use expenditures","Million dollars",1.8,286.3,571.2
+"2023","HLTCV","Hydrocarbon gas liquids total expenditures","Million dollars",1.8,286.3,571.2
+"2023","HPGBP","Hydroelectric pumped storage generating units net summer capacity in all sectors","Thousand kilowatts",0,0,3253
+"2023","HPCAS","Hydroelectric pumped storage generating units usage factor","Percent",0,0,14.6
+"2023","HYCCP","Hydroelectricity net generation in the commercial sector","Million kilowatthours",0,0,0
+"2023","HYEGP","Hydroelectricity net generation in the electric power sector","Million kilowatthours",0,1849,1390
+"2023","HYICP","Hydroelectricity net generation in the industrial sector","Million kilowatthours",0,0,0
+"2023","HYTCP","Hydroelectricity total net generation","Million kilowatthours",0,1849,1391
+"2023","HYTXP","Hydroelectricity, total end-use net generation","Million kilowatthours",0,0,0
+"2023","HYCCB","Hydropower consumed by the commercial sector","Billion Btu",0,0,0
+"2023","HYICB","Hydropower consumed by the industrial sector","Billion Btu",0,0,1
+"2023","HYEGB","Hydropower consumed for electricity generation by the electric power sector","Billion Btu",0,6309,4744
+"2023","HYTXB","Hydropower energy total end-use consumption","Billion Btu",0,0,1
+"2023","HYTCB","Hydropower total consumption","Billion Btu",0,6309,4745
+"2023","IQICP","Isobutane consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","IQICB","Isobutane consumed by the industrial sector","Billion Btu",0,0,0
+"2023","IQTCP","Isobutane total consumption","Thousand barrels",0,0,0
+"2023","IQTCB","Isobutane total consumption","Billion Btu",0,0,0
+"2023","IYICP","Isobutylene from refineries consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","IYICB","Isobutylene from refineries consumed by the industrial sector","Billion Btu",0,0,0
+"2023","IYTCP","Isobutylene from refineries total consumption","Thousand barrels",0,0,0
+"2023","IYTCB","Isobutylene from refineries total consumption","Billion Btu",0,0,0
+"2023","JFTXD","Jet fuel average price, all end-use sectors","Dollars per million Btu",0,21.46,20.1
+"2023","JFTCD","Jet fuel average price, all sectors","Dollars per million Btu",0,21.46,20.1
+"2023","JFACB","Jet fuel consumed by the transportation sector","Billion Btu",0,38062,114487
+"2023","JFACP","Jet fuel consumed by the transportation sector","Thousand barrels",0,6713,20192
+"2023","JFACV","Jet fuel expenditures in the transportation sector","Million dollars",0,816.7,2301.1
+"2023","JFACD","Jet fuel price in the transportation sector","Dollars per million Btu",0,21.46,20.1
+"2023","JFTCB","Jet fuel total consumption","Billion Btu",0,38062,114487
+"2023","JFTCP","Jet fuel total consumption","Thousand barrels",0,6713,20192
+"2023","JFTXP","Jet fuel total end-use consumption","Thousand barrels",0,6713,20192
+"2023","JFTXB","Jet fuel total end-use consumption","Billion Btu",0,38062,114487
+"2023","JFTXV","Jet fuel total end-use expenditures","Million dollars",0,816.7,2301.1
+"2023","JFTCV","Jet fuel total expenditures","Million dollars",0,816.7,2301.1
+"2023","KSTXD","Kerosene average price, all end-use sectors","Dollars per million Btu",28.26,34.25,32.96
+"2023","KSTCD","Kerosene average price, all sectors","Dollars per million Btu",28.26,34.25,32.96
+"2023","KSCCP","Kerosene consumed by the commercial sector","Thousand barrels",0,14,21
+"2023","KSCCB","Kerosene consumed by the commercial sector","Billion Btu",0,79,122
+"2023","KSICB","Kerosene consumed by the industrial sector","Billion Btu",0,20,41
+"2023","KSICP","Kerosene consumed by the industrial sector","Thousand barrels",0,3,7
+"2023","KSRCB","Kerosene consumed by the residential sector","Billion Btu",0,268,672
+"2023","KSRCP","Kerosene consumed by the residential sector","Thousand barrels",0,47,119
+"2023","KSCCV","Kerosene expenditures in the commercial sector","Million dollars",0,2.8,4
+"2023","KSICV","Kerosene expenditures in the industrial sector","Million dollars",0,0.5,1.2
+"2023","KSRCV","Kerosene expenditures in the residential sector","Million dollars",0,9.3,22.3
+"2023","KSCCD","Kerosene price in the commercial sector","Dollars per million Btu",34.86,34.86,33.13
+"2023","KSICD","Kerosene price in the industrial sector","Dollars per million Btu",23.45,23.45,29.71
+"2023","KSRCD","Kerosene price in the residential sector","Dollars per million Btu",0,34.86,33.13
+"2023","KSTCB","Kerosene total consumption","Billion Btu",1,367,835
+"2023","KSTCP","Kerosene total consumption","Thousand barrels",0,65,147
+"2023","KSTXB","Kerosene total end-use consumption","Billion Btu",1,367,835
+"2023","KSTXP","Kerosene total end-use consumption","Thousand barrels",0,65,147
+"2023","KSTXV","Kerosene total end-use expenditures","Million dollars",0,12.6,27.5
+"2023","KSTCV","Kerosene total expenditures","Million dollars",0,12.6,27.5
+"2023","EV0CN","Legacy charging ports for electric vehicles","Number",0,0,0
+"2023","EV1CN","Level 1 charging ports for electric vehicles","Number",27,39,226
+"2023","EV2CN","Level 2 charging ports for electric vehicles","Number",1232,4603,3774
+"2023","EV2CR","Level 2 charging ports per location","Number",3.17,2.85,2.73
+"2023","LUTXD","Lubricants average price, all end-use sectors","Dollars per million Btu",105.48,105.48,105.48
+"2023","LUTCD","Lubricants average price, all sectors","Dollars per million Btu",105.48,105.48,105.48
+"2023","LUICP","Lubricants consumed by the industrial sector","Thousand barrels",6,155,247
+"2023","LUICB","Lubricants consumed by the industrial sector","Billion Btu",36,941,1499
+"2023","LUACB","Lubricants consumed by the transportation sector","Billion Btu",50,1308,2496
+"2023","LUACP","Lubricants consumed by the transportation sector","Thousand barrels",8,216,412
+"2023","LUICV","Lubricants expenditures in the industrial sector","Million dollars",3.8,99.2,158.2
+"2023","LUACV","Lubricants expenditures in the transportation sector","Million dollars",5.3,138,263.3
+"2023","LUICD","Lubricants price in the industrial sector","Dollars per million Btu",105.48,105.48,105.48
+"2023","LUACD","Lubricants price in the transportation sector","Dollars per million Btu",105.48,105.48,105.48
+"2023","LUTCB","Lubricants total consumption","Billion Btu",86,2249,3996
+"2023","LUTCP","Lubricants total consumption","Thousand barrels",14,371,659
+"2023","LUTXB","Lubricants total end-use consumption","Billion Btu",86,2249,3996
+"2023","LUTXP","Lubricants total end-use consumption","Thousand barrels",14,371,659
+"2023","LUTXV","Lubricants total end-use expenditures","Million dollars",9.1,237.2,421.5
+"2023","LUTCV","Lubricants total expenditures","Million dollars",9.1,237.2,421.5
+"2023","MSICB","Miscellaneous petroleum products consumed by the industrial sector","Billion Btu",0,467,1529
+"2023","MSICP","Miscellaneous petroleum products consumed by the industrial sector","Thousand barrels",0,81,264
+"2023","MSICV","Miscellaneous petroleum products expenditures in the industrial sector","Million dollars",0,11.6,38.1
+"2023","MSICD","Miscellaneous petroleum products price in the industrial sector","Dollars per million Btu",0,24.92,24.92
+"2023","MGTXD","Motor gasoline average price, all end-use sectors","Dollars per million Btu",30.61,29.24,26.71
+"2023","MGTCD","Motor gasoline average price, all sectors","Dollars per million Btu",30.61,29.24,26.71
+"2023","MBICB","Motor gasoline blending components consumed by the industrial sector","Billion Btu",0,0,0
+"2023","MBICP","Motor gasoline blending components consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","MGCCB","Motor gasoline consumed by the commercial sector","Billion Btu",394,9331,12220
+"2023","MGCCP","Motor gasoline consumed by the commercial sector","Thousand barrels",78,1848,2420
+"2023","MGICP","Motor gasoline consumed by the industrial sector","Thousand barrels",39,596,795
+"2023","MGICB","Motor gasoline consumed by the industrial sector","Billion Btu",196,3008,4016
+"2023","MGACB","Motor gasoline consumed by the transportation sector","Billion Btu",11582,282491,472148
+"2023","MGACP","Motor gasoline consumed by the transportation sector","Thousand barrels",2294,55950,93513
+"2023","MGCCV","Motor gasoline expenditures in the commercial sector","Million dollars",12.1,272.9,326.4
+"2023","MGICV","Motor gasoline expenditures in the industrial sector","Million dollars",6,88,107.3
+"2023","MGACV","Motor gasoline expenditures in the transportation sector","Million dollars",354.5,8260.7,12610.7
+"2023","MGTPV","Motor gasoline expenditures per capita","Dollars",542.1,1386.7,1493.4
+"2023","MGCCD","Motor gasoline price in the commercial sector","Dollars per million Btu",30.61,29.24,26.71
+"2023","MGICD","Motor gasoline price in the industrial sector","Dollars per million Btu",30.61,29.24,26.71
+"2023","MGACD","Motor gasoline price in the transportation sector","Dollars per million Btu",30.61,29.24,26.71
+"2023","MGTCP","Motor gasoline total consumption","Thousand barrels",2411,58394,96729
+"2023","MGTCB","Motor gasoline total consumption","Billion Btu",12172,294830,488384
+"2023","MGTXP","Motor gasoline total end-use consumption","Thousand barrels",2411,58394,96729
+"2023","MGTXB","Motor gasoline total end-use consumption","Billion Btu",12172,294830,488384
+"2023","MGTXV","Motor gasoline total end-use expenditures","Million dollars",372.6,8621.5,13044.3
+"2023","MGTCV","Motor gasoline total expenditures","Million dollars",372.6,8621.5,13044.3
+"2023","MMCCB","Motor gasoline, excluding fuel ethanol, consumed by the commercial sector","Billion Btu",365,8646,11340
+"2023","MMICB","Motor gasoline, excluding fuel ethanol, consumed by the industrial sector","Billion Btu",181,2787,3727
+"2023","MMACB","Motor gasoline, excluding fuel ethanol, consumed by the transportation sector","Billion Btu",10728,261745,438166
+"2023","MMTCB","Motor gasoline, excluding fuel ethanol, total consumption","Billion Btu",11274,273178,453233
+"2023","NGTXD","Natural gas average price, all end-use sectors (including supplemental gaseous fuels)","Dollars per million Btu",14.87,14.92,9.68
+"2023","NGTCD","Natural gas average price, all sectors (including supplemental gaseous fuels)","Dollars per million Btu",14.87,9.71,5.94
+"2023","CYCAS","Natural gas combined cycle generating units capacity factor","Percent",0,56,59.7
+"2023","NGLPB","Natural gas consumed as lease and plant fuel","Billion Btu",0,0,5037
+"2023","NGRFB","Natural gas consumed as refinery fuel","Billion Btu",0,0,0
+"2023","NGEIP","Natural gas consumed by the electric power sector (including supplemental gaseous fuels)","Million cubic feet",0,111274,359596
+"2023","NGEIB","Natural gas consumed by the electric power sector (including supplemental gaseous fuels)","Billion Btu",0,115581,375176
+"2023","NGICP","Natural gas consumed by the industrial sector (including supplemental gaseous fuels)","Million cubic feet",0,15096,112906
+"2023","NGICB","Natural gas consumed by the industrial sector (including supplemental gaseous fuels)","Billion Btu",0,15688,119573
+"2023","NGISB","Natural gas consumed by the industrial sector excluding refinery fuel","Billion Btu",0,15688,114537
+"2023","NGACP","Natural gas consumed by the transportation sector","Million cubic feet",656,27467,11779
+"2023","NGACB","Natural gas consumed by the transportation sector ","Billion Btu",678,28543,12475
+"2023","NGASB","Natural gas consumed by the transportation sector adjusted for process fuel","Billion Btu",313,415,857
+"2023","NYCAS","Natural gas conventional steam generating units capacity factor","Percent",0,7.1,5.1
+"2023","NGCCP","Natural gas delivered to the commercial sector, used as consumption (including supplemental gaseous fuels)","Million cubic feet",14483,67958,67733
+"2023","NGCCB","Natural gas delivered to the commercial sector, used as consumption (including supplemental gaseous fuels)","Billion Btu",14961,70620,71733
+"2023","NGRCB","Natural gas delivered to the residential sector, used as consumption (including supplemental gaseous fuels)","Billion Btu",10598,74444,77101
+"2023","NGRCP","Natural gas delivered to the residential sector, used as consumption (including supplemental gaseous fuels)","Million cubic feet",10260,71637,72802
+"2023","NGCCV","Natural gas expenditures in the commercial sector (including supplemental gaseous fuels)","Million dollars",206.7,953.4,730.8
+"2023","NGEIV","Natural gas expenditures in the electric power sector (including supplemental gaseous fuels)","Million dollars",0,283.1,1240.6
+"2023","NGICV","Natural gas expenditures in the industrial sector (including supplemental gaseous fuels)","Million dollars",0,201.1,546.2
+"2023","NGRCV","Natural gas expenditures in the residential sector (including supplemental gaseous fuels)","Million dollars",172.3,1242.9,1252.9
+"2023","NGACV","Natural gas expenditures in the transportation sector","Million dollars",5.7,8,27.9
+"2023","NGPZB","Natural gas for pipeline and distribution use","Billion Btu",365,28129,11618
+"2023","NGGBP","Natural gas generating units net summer capacity in all sectors","Thousand kilowatts",21,5633,13727
+"2023","NGMPB","Natural gas marketed production","Billion Btu",0,3,87638
+"2023","NGMPP","Natural gas marketed production","Million cubic feet",0,3,83437
+"2023","NGCCD","Natural gas price in the commercial sector (including supplemental gaseous fuels)","Dollars per million Btu",13.81,13.5,10.19
+"2023","NGEID","Natural gas price in the electric power sector (including supplemental gaseous fuels)","Dollars per million Btu",0,2.45,3.31
+"2023","NGICD","Natural gas price in the industrial sector (including supplemental gaseous fuels)","Dollars per million Btu",0,12.82,4.77
+"2023","NGRCD","Natural gas price in the residential sector (including supplemental gaseous fuels)","Dollars per million Btu",16.25,16.7,16.25
+"2023","NGACD","Natural gas price in the transportation sector","Dollars per million Btu",18.36,19.23,32.51
+"2023","NNTCB","Natural gas total consumption (excluding supplemental gaseous fuels)","Billion Btu",26236,304669,655997
+"2023","NGTCB","Natural gas total consumption (including supplemental gaseous fuels)","Billion Btu",26236,304876,656058
+"2023","NGTCP","Natural gas total consumption (including supplemental gaseous fuels)","Million cubic feet",25398,293432,624817
+"2023","NGTPP","Natural gas total consumption (including supplemental gaseous fuels) per capita","Thousand cubic feet",37,47.2,71.5
+"2023","NGTPB","Natural gas total consumption (including supplemental gaseous fuels) per capita","Million Btu",38.2,49,75.1
+"2023","NGSCB","Natural gas total consumption adjusted for process fuel","Billion Btu",25872,276748,639404
+"2023","NGTXP","Natural gas total end-use consumption (including supplemental gaseous fuels)","Million cubic feet",25398,182158,265221
+"2023","NGTXB","Natural gas total end-use consumption (including supplemental gaseous fuels)","Billion Btu",26236,189295,280882
+"2023","NGTXV","Natural gas total end-use expenditures (including supplemental gaseous fuels)","Million dollars",384.7,2405.4,2557.8
+"2023","NGTCV","Natural gas total expenditures (including supplemental gaseous fuels)","Million dollars",384.7,2688.5,3798.4
+"2023","NTCAS","Natural gas turbine generating units capacity factor","Percent",49.3,7,8.6
+"2023","NNTCE","Natural gas, excluding supplemental gaseous fuels, CO2 emissions for all sectors","Million metric tons CO2",1.4,16.1,34.5
+"2023","NNCCE","Natural gas, excluding supplemental gaseous fuels, CO2 emissions for the commercial sector","Million metric tons CO2",0.8,3.7,3.8
+"2023","NNEIE","Natural gas, excluding supplemental gaseous fuels, CO2 emissions for the electric power sector","Million metric tons CO2",0,6.1,19.8
+"2023","NNICE","Natural gas, excluding supplemental gaseous fuels, CO2 emissions for the industrial sector","Million metric tons CO2",0,0.8,6.1
+"2023","NNRCE","Natural gas, excluding supplemental gaseous fuels, CO2 emissions for the residential sector","Million metric tons CO2",0.6,3.9,4.1
+"2023","NNACE","Natural gas, excluding supplemental gaseous fuels, CO2 emissions for the transportation sector","Million metric tons CO2",0,1.5,0.7
+"2023","PPICP","Natural gasoline (pentanes plus) consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","PPICB","Natural gasoline (pentanes plus) consumed by the industrial sector","Billion Btu",0,0,0
+"2023","PPTCB","Natural gasoline (pentanes plus) total consumption","Billion Btu",0,0,0
+"2023","PPTCP","Natural gasoline (pentanes plus) total consumption","Thousand barrels",0,0,0
+"2023","NAICP","Natural gasoline consumed by the industrial sector (through 1983)","Thousand barrels",0,0,0
+"2023","NAICB","Natural gasoline consumed by the industrial sector (through 1983)","Billion Btu",0,0,0
+"2023","ELNIP","Net imports of electricity into the United States","Million kilowatthours",0,0,0
+"2023","ELNIB","Net imports of electricity into the United States","Billion Btu",0,0,0
+"2023","ELISP","Net interstate flow of electricity (negative indicates flow out of state)","Million kilowatthours",10345,24139,50140
+"2023","ELISB","Net interstate flow of electricity and associated losses (negative indicates flow out of state)","Billion Btu",88907,207457,430920
+"2023","NCPRB","Noncombustible renewable energy production","Billion Btu",811,16571,28062
+"2023","BQICP","Normal butane consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","BQICB","Normal butane consumed by the industrial sector","Billion Btu",0,0,0
+"2023","BQTCP","Normal butane total consumption","Thousand barrels",0,0,0
+"2023","BQTCB","Normal butane total consumption","Billion Btu",0,0,0
+"2023","NUEGP","Nuclear electricity net generation in the electric power sector","Million kilowatthours",0,14984,29663
+"2023","NUETP","Nuclear electricity total net generation","Million kilowatthours",0,14984,29663
+"2023","NUEGB","Nuclear energy consumed for electricity generation by the electric power sector","Billion Btu",0,156610,310037
+"2023","NUETB","Nuclear energy consumed for electricity generation, total","Billion Btu",0,156610,310037
+"2023","NUETD","Nuclear fuel average price, all sectors","Dollars per million Btu",0,0.59,0.59
+"2023","NUEGV","Nuclear fuel expenditures in the electric power sector","Million dollars",0,92.2,182.6
+"2023","NUEGD","Nuclear fuel price in the electric power sector","Dollars per million Btu",0,0.59,0.59
+"2023","NUETV","Nuclear fuel total expenditures","Million dollars",0,92.2,182.6
+"2023","NUCAS","Nuclear generating units capacity factor","Percent",0,98,94.9
+"2023","NUGBP","Nuclear generating units net summer capacity in all sectors","Thousand kilowatts",0,1745,3568
+"2023","BOPRB","Other biofuels total production for the United States","Billion Btu",0,0,0
+"2023","BOPRP","Other biofuels total production for the United States","Thousand barrels",0,0,0
+"2023","OJGBP","Other gases generating units net summer capacity in all sectors","Thousand kilowatts",0,0,0
+"2023","OTGBP","Other generating units net summer capacity in all sectors","Thousand kilowatts",0,0,0
+"2023","OHICB","Other hydrocarbon gas liquids (other than propane) consumed by the industrial sector","Billion Btu",0,0,0
+"2023","OHICV","Other hydrocarbon gas liquids (other than propane) expenditures in the industrial sector","Million dollars",0,0,0
+"2023","OHICD","Other hydrocarbon gas liquids (other than propane) price in the industrial sector","Dollars per million Btu",0,0,0
+"2023","OPICD","Other petroleum products average price in the industrial sector","Dollars per million Btu",0,30.18,29.1
+"2023","OPTXD","Other petroleum products average price, all end-use sectors","Dollars per million Btu",0,30.18,29.1
+"2023","OPTCD","Other petroleum products average price, all sectors","Dollars per million Btu",0,30.18,29.1
+"2023","P5RFB","Other petroleum products consumed as refinery fuel and intermediate products","Billion Btu",0,0,0
+"2023","OPCCP","Other petroleum products consumed by the commercial sector","Thousand barrels",0,0,0
+"2023","OPCCB","Other petroleum products consumed by the commercial sector","Billion Btu",0,0,0
+"2023","OPEIP","Other petroleum products consumed by the electric power sector","Thousand barrels",0,0,0
+"2023","OPEIB","Other petroleum products consumed by the electric power sector","Billion Btu",0,0,1
+"2023","OPICP","Other petroleum products consumed by the industrial sector","Thousand barrels",0,606,848
+"2023","OPICB","Other petroleum products consumed by the industrial sector","Billion Btu",0,3228,4601
+"2023","OPISB","Other petroleum products consumed by the industrial sector excluding refinery fuel and intermediate products","Billion Btu",0,3228,4601
+"2023","OPRCP","Other petroleum products consumed by the residential sector","Thousand barrels",0,0,0
+"2023","OPRCB","Other petroleum products consumed by the residential sector","Billion Btu",0,0,0
+"2023","OPACP","Other petroleum products consumed by the transportation sector","Thousand barrels",8,233,546
+"2023","OPACB","Other petroleum products consumed by the transportation sector","Billion Btu",45,1247,2927
+"2023","OMTCB","Other petroleum products consumption, excluding biofuels","Billion Btu",0,3228,4601
+"2023","OPTCB","Other petroleum products total consumption","Billion Btu",45,4474,7529
+"2023","OPTCP","Other petroleum products total consumption","Thousand barrels",8,838,1394
+"2023","OPSCB","Other petroleum products total consumption adjusted for refinery fuel and intermediate products","Billion Btu",0,3228,4601
+"2023","OPTXP","Other petroleum products total end-use consumption","Thousand barrels",8,838,1394
+"2023","OPTXB","Other petroleum products total end-use consumption","Billion Btu",45,4474,7528
+"2023","OPTXV","Other petroleum products total end-use expenditures","Million dollars",0,97.4,133.9
+"2023","OPTCV","Other petroleum products total expenditures","Million dollars",0,97.4,133.9
+"2023","OPICV","Other petroleum products total expenditures in the industrial sector","Million dollars",0,97.4,133.9
+"2023","CDTPR","Per capita energy-related CO2 emissions","Metric tons CO2",3.6,7.8,10.8
+"2023","FNICP","Petrochemical feedstocks, naphtha less than 401? F, consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","FNICB","Petrochemical feedstocks, naphtha less than 401? F, consumed by the industrial sector","Billion Btu",0,0,0
+"2023","FNICV","Petrochemical feedstocks, naphtha less than 401? F, expenditures in the industrial sector","Million dollars",0,0,0
+"2023","FNICD","Petrochemical feedstocks, naphtha less than 401? F, price in the industrial sector","Dollars per million Btu",0,0,0
+"2023","FOICB","Petrochemical feedstocks, other oils equal to or greater than 401? F, consumed by the industrial sector","Billion Btu",0,0,0
+"2023","FOICP","Petrochemical feedstocks, other oils equal to or greater than 401? F, consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","FOICV","Petrochemical feedstocks, other oils equal to or greater than 401? F, expenditures in the industrial sector","Million dollars",0,0,0
+"2023","FOICD","Petrochemical feedstocks, other oils equal to or greater than 401? F, price in the industrial sector","Dollars per million Btu",0,0,0
+"2023","FSICP","Petrochemical feedstocks, still gas, consumed by the industrial sector (through 1985)","Thousand barrels",0,0,0
+"2023","FSICB","Petrochemical feedstocks, still gas, consumed by the industrial sector (through 1985)","Billion Btu",0,0,0
+"2023","FSICV","Petrochemical feedstocks, still gas, expenditures in the industrial sector (through 1985)","Million dollars",0,0,0
+"2023","FSICD","Petrochemical feedstocks, still gas, price in the industrial sector (through 1985) ","Dollars per million Btu",0,0,0
+"2023","PCTXD","Petroleum coke average price, all end-use sectors","Dollars per million Btu",0,0,0
+"2023","PCTCD","Petroleum coke average price, all sectors","Dollars per million Btu",0,0,0
+"2023","PCRFB","Petroleum coke consumed as refinery fuel","Billion Btu",0,0,0
+"2023","PCCCB","Petroleum coke consumed by the commercial sector","Billion Btu",0,0,0
+"2023","PCCCP","Petroleum coke consumed by the commercial sector","Thousand barrels",0,0,0
+"2023","PCEIP","Petroleum coke consumed by the electric power sector","Thousand barrels",0,0,0
+"2023","PCEIB","Petroleum coke consumed by the electric power sector","Billion Btu",0,0,0
+"2023","PCISB","Petroleum coke consumed by the industrial sector excluding refinery fuel","Billion Btu",0,0,0
+"2023","PCICP","Petroleum coke consumed in the industrial sector","Thousand barrels",0,0,0
+"2023","PCICB","Petroleum coke consumed in the industrial sector","Billion Btu",0,0,0
+"2023","PCCCV","Petroleum coke expenditures in the commercial sector","Million dollars",0,0,0
+"2023","PCEIV","Petroleum coke expenditures in the electric power sector","Million dollars",0,0,0
+"2023","PCICV","Petroleum coke expenditures in the industrial sector","Million dollars",0,0,0
+"2023","PCCCD","Petroleum coke price in the commercial sector","Dollars per million Btu",0,0,0
+"2023","PCEID","Petroleum coke price in the electric power sector","Dollars per million Btu",0,0,0
+"2023","PCICD","Petroleum coke price in the industrial sector","Dollars per million Btu",0,0,0
+"2023","PCTCB","Petroleum coke total consumption","Billion Btu",0,0,0
+"2023","PCTCP","Petroleum coke total consumption","Thousand barrels",0,0,0
+"2023","PCSCB","Petroleum coke total consumption adjusted for process fuel","Billion Btu",0,0,0
+"2023","PCTXP","Petroleum coke total end-use consumption","Thousand barrels",0,0,0
+"2023","PCTXB","Petroleum coke total end-use consumption","Billion Btu",0,0,0
+"2023","PCTXV","Petroleum coke total end-use expenditures","Million dollars",0,0,0
+"2023","PCTCV","Petroleum coke total expenditures","Million dollars",0,0,0
+"2023","PACAS","Petroleum generating units capacity factor","Percent",0,1.2,0.7
+"2023","PAGBP","Petroleum generating units net summer capacity in all sectors","Thousand kilowatts",0,1656,737
+"2023","PLICB","Plant condensate consumed by the industrial sector (through 1983)","Billion Btu",0,0,0
+"2023","PLICP","Plant condensate consumed by the industrial sector (through 1983)","Thousand barrels",0,0,0
+"2023","PHVHN","Plug-in hybrid electric vehicle (PHEV) light-duty stocks","Thousands of registered vehicles",3.3,27.6,23.6
+"2023","PECCD","Primary energy average price in the commercial sector","Dollars per million Btu",13.77,16.02,12.72
+"2023","PEEID","Primary energy average price in the electric power sector","Dollars per million Btu",0,1.64,2.23
+"2023","PEICD","Primary energy average price in the industrial sector","Dollars per million Btu",19.24,17.18,8.61
+"2023","PERCD","Primary energy average price in the residential sector","Dollars per million Btu",16.98,19.45,19.3
+"2023","PEACD","Primary energy average price in the transportation sector","Dollars per million Btu",30.8,29.1,26.52
+"2023","PETXD","Primary energy average price, all end-use sectors","Dollars per million Btu",20.28,24.75,21
+"2023","PETCD","Primary energy average price, all sectors","Dollars per million Btu",20.28,17.24,13.93
+"2023","PECSB","Primary energy consumed by the commercial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",16964,90253,108944
+"2023","PEISB","Primary energy consumed by the industrial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",2698,51378,243338
+"2023","PERSB","Primary energy consumed by the residential sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",11209,96166,108723
+"2023","PEASB","Primary energy consumed by the transportation sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",14277,387485,743859
+"2023","PESCB","Primary energy total consumption, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",45148,926234,1933924
+"2023","PETXV","Primary energy total end-use expenditures","Million dollars",915.5,15473.7,25306.3
+"2023","PETCV","Primary energy total expenditures","Million dollars",915.5,15966.4,26935.3
+"2023","PECCV","Primary energy total expenditures in the commercial sector","Million dollars",233.6,1445.7,1385.5
+"2023","PEEIV","Primary energy total expenditures in the electric power sector","Million dollars",0,492.8,1629
+"2023","PEICV","Primary energy total expenditures in the industrial sector","Million dollars",51.9,882.7,2094.3
+"2023","PERCV","Primary energy total expenditures in the residential sector","Million dollars",190.3,1870.4,2098.7
+"2023","PEACV","Primary energy total expenditures in the transportation sector","Million dollars",439.7,11274.9,19727.8
+"2023","PQTXD","Propane average price, all end-use sectors","Dollars per million Btu",26.28,27.78,26.27
+"2023","PQTCD","Propane average price, all sectors","Dollars per million Btu",26.28,27.78,26.27
+"2023","PQRFB","Propane consumed as refinery fuel","Billion Btu",0,0,0
+"2023","PQCCB","Propane consumed by the commercial sector","Billion Btu",4,2661,6875
+"2023","PQCCP","Propane consumed by the commercial sector","Thousand barrels",1,693,1790
+"2023","PQICP","Propane consumed by the industrial sector","Thousand barrels",8,426,837
+"2023","PQICB","Propane consumed by the industrial sector","Billion Btu",29,1635,3215
+"2023","PQRCP","Propane consumed by the residential sector","Thousand barrels",9,1520,2981
+"2023","PQRCB","Propane consumed by the residential sector","Billion Btu",34,5839,11451
+"2023","PQACB","Propane consumed by the transportation sector","Billion Btu",0,173,202
+"2023","PQACP","Propane consumed by the transportation sector","Thousand barrels",0,45,53
+"2023","PQISB","Propane consumed in the industrial sector excluding refinery fuel","Billion Btu",29,1635,3215
+"2023","PQCCV","Propane expenditures in the commercial sector","Million dollars",0.1,48.3,118
+"2023","PQICV","Propane expenditures in the industrial sector","Million dollars",0.5,27.9,50.1
+"2023","PQRCV","Propane expenditures in the residential sector","Million dollars",1.2,206.5,399
+"2023","PQACV","Propane expenditures in the transportation sector","Million dollars",0,3.7,4
+"2023","PQCCD","Propane price in the commercial sector","Dollars per million Btu",18.14,18.14,17.17
+"2023","PQICD","Propane price in the industrial sector","Dollars per million Btu",17.08,17.08,15.6
+"2023","PQRCD","Propane price in the residential sector","Dollars per million Btu",35.22,35.36,34.84
+"2023","PQACD","Propane price in the transportation sector","Dollars per million Btu",18.86,21.2,19.87
+"2023","PQTCP","Propane total consumption","Thousand barrels",18,2684,5661
+"2023","PQTCB","Propane total consumption","Billion Btu",68,10308,21742
+"2023","PQSCB","Propane total consumption adjusted for process fuel","Billion Btu",68,10308,21742
+"2023","PQTXB","Propane total end-use consumption","Billion Btu",68,10308,21742
+"2023","PQTXP","Propane total end-use consumption","Thousand barrels",18,2684,5661
+"2023","PQTXV","Propane total end-use expenditures","Million dollars",1.8,286.3,571.2
+"2023","PQTCV","Propane total expenditures","Million dollars",1.8,286.3,571.2
+"2023","PYICP","Propylene from refineries consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","PYICB","Propylene from refineries consumed by the industrial sector","Billion Btu",0,0,0
+"2023","PYTCB","Propylene from refineries total consumption","Billion Btu",0,0,0
+"2023","PYTCP","Propylene from refineries total consumption","Thousand barrels",0,0,0
+"2023","GDPRX","Real gross domestic product (GDP)","Million chained (2017) dollars",146024.3,422866.3,597597.1
+"2023","B1ACB","Renewable diesel consumed by the transportation sector","Billion Btu",0,0,0
+"2023","B1ACP","Renewable diesel consumed by the transportation sector","Thousand barrels",0,0,0
+"2023","B1AUP","Renewable diesel product supplied portion to the transportation sector","Thousand barrels",0,0,0
+"2023","B1AUB","Renewable diesel product supplied portion to the transportation sector","Billion Btu",0,0,0
+"2023","B1PRB","Renewable diesel production","Billion Btu",0,0,0
+"2023","B1PRP","Renewable diesel production","Thousand barrels",0,0,0
+"2023","B1RIP","Renewable diesel refinery and blender net inputs","Thousand barrels",0,0,0
+"2023","B1RIB","Renewable diesel refinery and blender net inputs","Billion Btu",0,0,0
+"2023","B1ABB","Renewable diesel refinery and blender net inputs portion to the transportation sector","Billion Btu",0,0,0
+"2023","B1ABP","Renewable diesel refinery and blender net inputs portion to the transportation sector","Thousand barrels",0,0,0
+"2023","B1TCB","Renewable diesel total consumption","Billion Btu",0,0,0
+"2023","B1TCP","Renewable diesel total consumption","Thousand barrels",0,0,0
+"2023","REPRB","Renewable energy production","Billion Btu",1825,30078,153971
+"2023","RECCB","Renewable energy sources consumed by the commercial sector","Billion Btu",1298,3010,14184
+"2023","REEIB","Renewable energy sources consumed by the electric power sector","Billion Btu",84,16969,50885
+"2023","REICB","Renewable energy sources consumed by the industrial sector","Billion Btu",14,1100,56865
+"2023","RERCB","Renewable energy sources consumed by the residential sector","Billion Btu",472,9905,23410
+"2023","REACB","Renewable energy sources consumed by the transportation sector","Billion Btu",926,22727,38634
+"2023","RETCB","Renewable energy total consumption","Billion Btu",2795,53711,183979
+"2023","REGBP","Renewable energy total generating units net summer capacity in all sectors","Thousand kilowatts",32,1429,5333
+"2023","TPOPP","Resident population including Armed Forces","Thousand",687,6217,8735
+"2023","RFSCB","Residential fuel oil total consumption excluding process fuel","Billion Btu",0,1154,2961
+"2023","RFTXD","Residual fuel oil average price, all end-use sectors","Dollars per million Btu",0,16.98,11.29
+"2023","RFTCD","Residual fuel oil average price, all sectors","Dollars per million Btu",0,18.24,11.29
+"2023","RFRFB","Residual fuel oil consumed as refinery fuel","Billion Btu",0,0,0
+"2023","RFCCP","Residual fuel oil consumed by the commercial sector","Thousand barrels",0,4,0
+"2023","RFCCB","Residual fuel oil consumed by the commercial sector","Billion Btu",0,26,2
+"2023","RFEIP","Residual fuel oil consumed by the electric power sector","Thousand barrels",0,95,0
+"2023","RFEIB","Residual fuel oil consumed by the electric power sector","Billion Btu",0,595,0
+"2023","RFICB","Residual fuel oil consumed by the industrial sector","Billion Btu",0,48,721
+"2023","RFICP","Residual fuel oil consumed by the industrial sector","Thousand barrels",0,8,115
+"2023","RFISB","Residual fuel oil consumed by the industrial sector excluding refinery fuel","Billion Btu",0,48,721
+"2023","RFACP","Residual fuel oil consumed by the transportation sector","Thousand barrels",0,77,356
+"2023","RFACB","Residual fuel oil consumed by the transportation sector","Billion Btu",0,484,2239
+"2023","RFCCV","Residual fuel oil expenditures in the commercial sector","Million dollars",0,0.5,0
+"2023","RFEIV","Residual fuel oil expenditures in the electric power sector","Million dollars",0,11.6,0
+"2023","RFICV","Residual fuel oil expenditures in the industrial sector","Million dollars",0,0.8,10.7
+"2023","RFACV","Residual fuel oil expenditures in the transportation sector","Million dollars",0,8.2,22.7
+"2023","RFCCD","Residual fuel oil price in the commercial sector","Dollars per million Btu",0,17.13,14.9
+"2023","RFEID","Residual fuel oil price in the electric power sector","Dollars per million Btu",0,19.42,0
+"2023","RFICD","Residual fuel oil price in the industrial sector","Dollars per million Btu",0,17.13,14.9
+"2023","RFACD","Residual fuel oil price in the transportation sector","Dollars per million Btu",0,16.96,10.13
+"2023","RFTCP","Residual fuel oil total consumption","Thousand barrels",0,184,471
+"2023","RFTCB","Residual fuel oil total consumption","Billion Btu",0,1154,2961
+"2023","RFTXP","Residual fuel oil total end-use consumption","Thousand barrels",0,89,471
+"2023","RFTXB","Residual fuel oil total end-use consumption","Billion Btu",0,559,2961
+"2023","RFTXV","Residual fuel oil total end-use expenditures","Million dollars",0,9.5,33.4
+"2023","RFTCV","Residual fuel oil total expenditures","Million dollars",0,21,33.4
+"2023","SOCCB","Solar energy consumed by the commercial sector","Billion Btu",255,1083,559
+"2023","SOICB","Solar energy consumed by the industrial sector","Billion Btu",0,104,21
+"2023","SORCB","Solar energy consumed by the residential sector","Billion Btu",451,3718,2383
+"2023","SOEGB","Solar energy consumed for electricity generation by the electric power sector","Billion Btu",84,3144,18492
+"2023","SOTCB","Solar energy total consumption","Billion Btu",790,8049,21455
+"2023","SOTXB","Solar energy total end-use consumption","Billion Btu",706,4905,2963
+"2023","SOGBP","Solar generating units net summer capacity in all sectors","Thousand kilowatts",20,584,3659
+"2023","SOR7P","Solar photovoltaic electricity generation by small-scale applications in the residential sector","Million kilowatthours",132,1055,539
+"2023","SPCAS","Solar photovoltaic generating units capacity factor","Percent",14.9,19.4,20.3
+"2023","SOCCP","Solar thermal and photovoltaic electricity net generation in the commercial sector","Million kilowatthours",75,317,164
+"2023","SOEGP","Solar thermal and photovoltaic electricity net generation in the electric power sector","Million kilowatthours",25,922,5420
+"2023","SOICP","Solar thermal and photovoltaic electricity net generation in the industrial sector","Million kilowatthours",0,31,6
+"2023","SOTGP","Solar thermal and photovoltaic electricity total net generation","Million kilowatthours",231,2325,6129
+"2023","SHCAS","Solar thermal generating units capacity factor","Percent",0,0,0
+"2023","SNICB","Special naphthas consumed by the industrial sector","Billion Btu",0,2682,2920
+"2023","SNICP","Special naphthas consumed by the industrial sector","Thousand barrels",0,511,556
+"2023","SNICV","Special naphthas expenditures in the industrial sector","Million dollars",0,82.9,90.2
+"2023","SNICD","Special naphthas price in the industrial sector","Dollars per million Btu",0,30.91,30.91
+"2023","SGICP","Still gas consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","SGICB","Still gas consumed by the industrial sector","Billion Btu",0,0,0
+"2023","SFCCB","Supplemental gaseous fuels consumed by the commercial sector","Billion Btu",0,53,7
+"2023","SFEIB","Supplemental gaseous fuels consumed by the electric power sector","Billion Btu",0,86,36
+"2023","SFINB","Supplemental gaseous fuels consumed by the industrial sector","Billion Btu",0,12,11
+"2023","SFRCB","Supplemental gaseous fuels consumed by the residential sector","Billion Btu",0,56,7
+"2023","SFTCB","Supplemental gaseous fuels total consumption","Billion Btu",0,207,61
+"2023","LOCCB","The commercial sector's share of electrical system energy losses","Billion Btu",39337,154125,408236
+"2023","LOICB","The industrial sector's share of electrical system energy losses","Billion Btu",988,19681,83940
+"2023","LORCB","The residential sector's share of electrical system energy losses","Billion Btu",13270,148692,238368
+"2023","LOACB","The transportation sector's share of electrical system energy losses","Billion Btu",1686,2324,1325
+"2023","ELGBP","Total (all fuels) electric generating units net summer capacity in all sectors","Thousand kilowatts",52,11924,28218
+"2023","LDVHN","Total (all fuels) vehicle light-duty stocks","Thousands of registered vehicles",287.8,4665.9,7121.9
+"2023","BXSUB","Total biofuels (excluding fuel ethanol) product supplied","Billion Btu",45,1247,2928
+"2023","BXSUP","Total biofuels (excluding fuel ethanol) product supplied","Thousand barrels",8,233,546
+"2023","EVCHN","Total charging ports for electric vehicles","Number",1316,5632,5167
+"2023","DATCB","Total distillate fuel oil, biodiesel, and renewable diesel consumption","Billion Btu",3615,91025,187053
+"2023","DATCP","Total distillate fuel oil, biodiesel, and renewable diesel consumption","Thousand barrels",627,15803,32483
+"2023","ELVHN","Total electric vehicle (EV) light-duty stocks","Thousands of registered vehicles",11.1,96.6,104.9
+"2023","EVCHP","Total electric vehicle charging locations","Number",400,1836,1650
+"2023","LOTCB","Total electrical system energy losses","Billion Btu",55282,324821,731869
+"2023","LOTXB","Total electrical system energy losses allocated to the end-use sectors","Billion Btu",55282,324821,731869
+"2023","TETXD","Total end-use energy average price","Dollars per million Btu",32.28,28.85,23.81
+"2023","TNTCB","Total end-use energy consumption","Billion Btu",79949,857760,1703396
+"2023","TETXV","Total end-use energy expenditures","Million dollars",2545.6,23652.7,39434.2
+"2023","TETXB","Total end-use sector energy consumption","Billion Btu",135231,1182581,2435266
+"2023","TETCE","Total energy CO2 emissions for all sectors","Million metric tons CO2",2.5,48.6,94.6
+"2023","TECCE","Total energy CO2 emissions for the commercial sector","Million metric tons CO2",0.9,5,5.7
+"2023","TEEIE","Total energy CO2 emissions for the electric power sector","Million metric tons CO2",0,8.3,21.4
+"2023","TEICE","Total energy CO2 emissions for the industrial sector","Million metric tons CO2",0,2.5,10.8
+"2023","TERCE","Total energy CO2 emissions for the residential sector","Million metric tons CO2",0.6,5.3,5.7
+"2023","TEACE","Total energy CO2 emissions for the transportation sector","Million metric tons CO2",1,27.5,51
+"2023","TETCD","Total energy average price","Dollars per million Btu",32.28,28.85,23.81
+"2023","TECCD","Total energy average price in the commercial sector","Dollars per million Btu",34.79,26.85,22.15
+"2023","TEICD","Total energy average price in the industrial sector","Dollars per million Btu",21.53,19.41,11.68
+"2023","TERCD","Total energy average price in the residential sector","Dollars per million Btu",30.07,33.49,32.23
+"2023","TEACD","Total energy average price in the transportation sector","Dollars per million Btu",30.69,29.11,26.53
+"2023","TETCB","Total energy consumption","Billion Btu",135231,1182581,2435265
+"2023","TECCB","Total energy consumption in the commercial sector","Billion Btu",80543,338357,772658
+"2023","TEEIB","Total energy consumption in the electric power sector plus net imports of electricity into the United States","Billion Btu",84,311961,752421
+"2023","TEICB","Total energy consumption in the industrial sector","Billion Btu",4288,83304,395353
+"2023","TERCB","Total energy consumption in the residential sector","Billion Btu",33044,341590,509635
+"2023","TEACB","Total energy consumption in the transportation sector","Billion Btu",17357,419330,757619
+"2023","TETPB","Total energy consumption per capita","Million Btu",196.8,190.2,278.8
+"2023","TECPB","Total energy consumption per capita in the commercial sector","Million Btu",117.2,54.4,88.5
+"2023","TEIPB","Total energy consumption per capita in the industrial sector","Million Btu",6.2,13.4,45.3
+"2023","TERPB","Total energy consumption per capita in the residential sector","Million Btu",48.1,54.9,58.3
+"2023","TEAPB","Total energy consumption per capita in the transportation sector","Million Btu",25.3,67.4,86.7
+"2023","TETGR","Total energy consumption per dollar of real gross domestic product (GDP)","Thousand Btu per chained (2017) dollar",0.93,2.8,4.08
+"2023","TETCV","Total energy expenditures","Million dollars",2545.6,23652.7,39434.2
+"2023","TECCV","Total energy expenditures in the commercial sector","Million dollars",1424.6,4902.1,7989.9
+"2023","TEICV","Total energy expenditures in the industrial sector","Million dollars",71.1,1226.4,3447.3
+"2023","TERCV","Total energy expenditures in the residential sector","Million dollars",580.3,6203.5,8244.2
+"2023","TEACV","Total energy expenditures in the transportation sector","Million dollars",469.7,11320.7,19752.8
+"2023","TETPV","Total energy expenditures per capita","Dollars",3703.7,3804.5,4514.7
+"2023","TEPFB","Total energy used as process fuel and other consumption that has no direct fuel costs","Billion Btu",56374,362822,778957
+"2023","TERFB","Total energy used as refinery fuel and intermediate products","Billion Btu",0,0,0
+"2023","TNCSB","Total net energy consumed by the commercial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",40951,182588,360773
+"2023","TNISB","Total net energy consumed by the industrial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",3300,63168,295118
+"2023","TNRSB","Total net energy consumed by the residential sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",19301,185246,255766
+"2023","TNASB","Total net energy consumed by the transportation sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",15306,388877,744676
+"2023","TNSCB","Total net energy consumption, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",78857,819880,1656334
+"2023","PMTCE","Total petroleum, excluding biofuels, CO2 emissions for all sectors","Million metric tons CO2  ",1.1,29.7,55.7
+"2023","PMCCE","Total petroleum, excluding biofuels, CO2 emissions for the commercial sector","Million metric tons CO2",0.1,1.3,1.8
+"2023","PMEIE","Total petroleum, excluding biofuels, CO2 emissions for the electric power sector","Million metric tons CO2",0,0.1,0.1
+"2023","PMICE","Total petroleum, excluding biofuels, CO2 emissions for the industrial sector","Million metric tons CO2",0,0.9,1.8
+"2023","PMRCE","Total petroleum, excluding biofuels, CO2 emissions for the residential sector","Million metric tons CO2",0,1.4,1.6
+"2023","PMACE","Total petroleum, excluding biofuels, CO2 emissions for the transportation sector","Million metric tons CO2",0.9,26,50.4
+"2023","TEPRB","Total primary energy production","Billion Btu",1825,217026,834458
+"2023","UOICB","Unfinished oils consumed by the industrial sector","Billion Btu",0,0,0
+"2023","UOICP","Unfinished oils consumed by the industrial sector","Thousand barrels",0,0,0
+"2023","USICB","Unfractionated streams consumed by the industrial sector (through 1983)","Billion Btu",0,0,0
+"2023","USICP","Unfractionated streams consumed by the industrial sector (through 1983)","Thousand barrels",0,0,0
+"2023","WSEIB","Waste consumed by the electric power sector","Billion Btu",0,5873,6003
+"2023","WSCCB","Waste energy consumed by the commercial sector","Billion Btu",1014,1,8228
+"2023","WSICB","Waste energy consumed by the industrial sector","Billion Btu",0,302,2574
+"2023","WSTCB","Waste energy total consumption","Billion Btu",1014,6176,16805
+"2023","WSGBP","Waste generating units net summer capacity in all sectors","Thousand kilowatts",12,137,299
+"2023","WZEIB","Waste, excluding biodiesel, consumed by the electric power sector","Billion Btu",0,5873,6002
+"2023","WZTCB","Waste, excluding biodiesel, total consumption","Billion Btu",1014,6176,16804
+"2023","WXICP","Waxes consumed by the industrial sector","Thousand barrels",0,14,27
+"2023","WXICB","Waxes consumed by the industrial sector","Billion Btu",0,79,152
+"2023","WXICV","Waxes expenditures in the industrial sector","Million dollars",0,2.9,5.5
+"2023","WXICD","Waxes price in the industrial sector","Dollars per million Btu",0,36.45,36.45
+"2023","WYCCP","Wind electricity net generation in the commercial sector","Million kilowatthours",0,0,0
+"2023","WYEGP","Wind electricity net generation in the electric power sector","Million kilowatthours",0,482,47
+"2023","WYICP","Wind electricity net generation in the industrial sector","Million kilowatthours",0,0,0
+"2023","WYTCP","Wind electricity total net generation","Million kilowatthours",0,482,47
+"2023","WYCCB","Wind energy consumed by the commercial sector","Billion Btu",0,0,0
+"2023","WYICB","Wind energy consumed by the industrial sector","Billion Btu",0,0,0
+"2023","WYEGB","Wind energy consumed for electricity generation by the electric power sector","Billion Btu",0,1643,160
+"2023","WYTCB","Wind energy total consumption","Billion Btu",0,1643,160
+"2023","WYTXB","Wind energy total end-use consumption","Billion Btu",0,0,0
+"2023","WYTXP","Wind energy total end-use net generation","Million kilowatthours",0,0,0
+"2023","WYCAS","Wind generating units capacity factor","Percent",0,28.9,44.7
+"2023","WYGBP","Wind generating units net summer capacity in all sectors","Thousand kilowatts",0,190,12
+"2023","WWTXD","Wood and waste average price, all end-use sectors","Dollars per million Btu",1.01,10.14,4.25
+"2023","WWTCD","Wood and waste average price, all sectors","Dollars per million Btu",1.01,5.49,4.09
+"2023","WWEIB","Wood and waste consumed by the electric power sector","Billion Btu",0,5873,27489
+"2023","WWCCB","Wood and waste consumed in the commercial sector","Billion Btu",1014,1242,11861
+"2023","WWICB","Wood and waste consumed in the industrial sector","Billion Btu",0,775,56552
+"2023","WWCSB","Wood and waste energy consumed in the commercial sector at a cost","Billion Btu",1014,627,9649
+"2023","WWCXB","Wood and waste energy consumed in the commercial sector at no cost","Billion Btu",0,615,2212
+"2023","WWISB","Wood and waste energy consumed in the industrial sector at a cost","Billion Btu",0,413,45307
+"2023","WWIXB","Wood and waste energy consumed in the industrial sector at no cost","Billion Btu",0,362,11245
+"2023","WWPRB","Wood and waste energy production","Billion Btu",1014,13507,125789
+"2023","WWSCB","Wood and waste energy total consumption, adjusted for fuels with no direct cost","Billion Btu",1014,9110,90347
+"2023","WWCCV","Wood and waste expenditures in the commercial sector","Million dollars",1,5.5,25.3
+"2023","WWEIV","Wood and waste expenditures in the electric power sector","Million dollars",0,17.2,102.2
+"2023","WWICV","Wood and waste expenditures in the industrial sector","Million dollars",0,1.1,147.7
+"2023","WWCCD","Wood and waste price in the commercial sector","Dollars per million Btu",1.01,8.75,2.62
+"2023","WWEID","Wood and waste price in the electric power sector","Dollars per million Btu",0,2.93,3.72
+"2023","WWICD","Wood and waste price in the industrial sector","Dollars per million Btu",0,2.65,3.26
+"2023","WWTCB","Wood and waste total consumption","Billion Btu",1014,13507,116113
+"2023","WWTXB","Wood and waste total end-use consumption","Billion Btu",1014,7634,88624
+"2023","WWTXV","Wood and waste total end-use expenditures","Million dollars",1,32.8,267.4
+"2023","WWTCV","Wood and waste total expenditures","Million dollars",1,50,369.6
+"2023","WDEIB","Wood consumed by the electric power sector","Billion Btu",0,0,21486
+"2023","WDCCB","Wood energy consumed by the commercial sector","Billion Btu",0,1241,3632
+"2023","WDICB","Wood energy consumed by the industrial sector","Billion Btu",0,473,53978
+"2023","WDRCB","Wood energy consumed by the residential sector","Billion Btu",0,5617,20211
+"2023","WDRSB","Wood energy consumed in the residential sector at a cost","Billion Btu",0,2196,7903
+"2023","WDRXB","Wood energy consumed in the residential sector at no cost","Billion Btu",0,3421,12309
+"2023","WDPRB","Wood energy production","Billion Btu",0,7331,108984
+"2023","WDTCB","Wood energy total consumption","Billion Btu",0,7331,99307
+"2023","WDRCV","Wood expenditures in the residential sector","Million dollars",0,26.2,94.4
+"2023","WDGBP","Wood generating units net summer capacity in all sectors","Thousand kilowatts",0,3,497
+"2023","WDRCD","Wood price in the residential sector","Dollars per million Btu",0,11.95,11.95
+"2022","PACCD","All petroleum products average price in the commercial sector","Dollars per million Btu",31.75,30.43,26.94
+"2022","PAEID","All petroleum products average price in the electric power sector","Dollars per million Btu",0,25.11,19.76
+"2022","PAICD","All petroleum products average price in the industrial sector","Dollars per million Btu",20.77,27.54,26.21
+"2022","PARCD","All petroleum products average price in the residential sector","Dollars per million Btu",32.06,32.83,32.92
+"2022","PAACD","All petroleum products average price in the transportation sector","Dollars per million Btu",35.25,33.37,30.27
+"2022","PATXD","All petroleum products average price, all end-use sectors","Dollars per million Btu",32.18,32.83,29.96
+"2022","PATCD","All petroleum products average price, all sectors","Dollars per million Btu",32.18,32.79,29.88
+"2022","PACCB","All petroleum products consumed by the commercial sector","Billion Btu",1026,20219,28906
+"2022","PACCP","All petroleum products consumed by the commercial sector","Thousand barrels",189,4024,5996
+"2022","PAEIP","All petroleum products consumed by the electric power sector","Thousand barrels",0,327,1106
+"2022","PAEIB","All petroleum products consumed by the electric power sector","Billion Btu",0,1928,6395
+"2022","PAICP","All petroleum products consumed by the industrial sector","Thousand barrels",563,4855,9527
+"2022","PAICB","All petroleum products consumed by the industrial sector","Billion Btu",3618,27973,54754
+"2022","PAISB","All petroleum products consumed by the industrial sector excluding process fuel and intermediate products","Billion Btu",3618,27973,54754
+"2022","PARCB","All petroleum products consumed by the residential sector","Billion Btu",646,21455,24377
+"2022","PARCP","All petroleum products consumed by the residential sector","Thousand barrels",115,4302,5231
+"2022","PAACP","All petroleum products consumed by the transportation sector","Thousand barrels",2640,69183,135953
+"2022","PAACB","All petroleum products consumed by the transportation sector","Billion Btu",13633,361604,719853
+"2022","PAASB","All petroleum products consumed by the transportation sector excluding other biofuels product supplied for the United States","Billion Btu",13633,361604,719853
+"2022","PATCB","All petroleum products total consumption","Billion Btu",18922,433178,834284
+"2022","PATCP","All petroleum products total consumption","Thousand barrels",3507,82690,157813
+"2022","PASCB","All petroleum products total consumption adjusted for process fuel and intermediate products","Billion Btu",18922,433178,834282
+"2022","PATPP","All petroleum products total consumption per capita","barrels",5.2,13.4,18.2
+"2022","PATPB","All petroleum products total consumption per capita","Million Btu",28,70,96.1
+"2022","PATXP","All petroleum products total end-use consumption","Thousand barrels",3507,82363,156707
+"2022","PATXB","All petroleum products total end-use consumption","Billion Btu",18922,431251,827889
+"2022","PATXV","All petroleum products total end-use expenditures","Million dollars",609,14156.9,24803.6
+"2022","PATCV","All petroleum products total expenditures","Million dollars",609,14205.3,24930
+"2022","PACCV","All petroleum products total expenditures in the commercial sector","Million dollars",32.6,615.2,778.8
+"2022","PAEIV","All petroleum products total expenditures in the electric power sector","Million dollars",0,48.4,126.4
+"2022","PAICV","All petroleum products total expenditures in the industrial sector","Million dollars",75.1,770.5,1434.9
+"2022","PARCV","All petroleum products total expenditures in the residential sector","Million dollars",20.7,704.5,802.5
+"2022","PAACV","All petroleum products total expenditures in the transportation sector","Million dollars",480.6,12066.8,21787.5
+"2022","PMCCB","All petroleum products, excluding biofuels, consumed by the commercial sector","Billion Btu",997,19536,28018
+"2022","PMEIB","All petroleum products, excluding biofuels, consumed by the electric power sector","Billion Btu",0,1928,6393
+"2022","PMICB","All petroleum products, excluding biofuels, consumed by the industrial sector","Billion Btu",3603,27751,54468
+"2022","PMRCB","All petroleum products, excluding biofuels, consumed by the residential sector","Billion Btu",646,21455,24377
+"2022","PMACB","All petroleum products, excluding biofuels, consumed by the transportation sector","Billion Btu",12754,341172,684906
+"2022","PMTCB","All petroleum products, excluding biofuels, total consumption","Billion Btu",18000,411842,798162
+"2022","ARTXD","Asphalt and road oil average price, all end-use sectors","Dollars per million Btu",18.46,18.54,18.38
+"2022","ARTCD","Asphalt and road oil average price, all sectors","Dollars per million Btu",18.46,18.54,18.38
+"2022","ARICP","Asphalt and road oil consumed by the industrial sector","Thousand barrels",483,1854,3426
+"2022","ARICB","Asphalt and road oil consumed by the industrial sector","Billion Btu",3207,12305,22737
+"2022","ARICV","Asphalt and road oil expenditures in the industrial sector","Million dollars",59.2,228.2,417.8
+"2022","ARICD","Asphalt and road oil price in the industrial sector","Dollars per million Btu",18.46,18.54,18.38
+"2022","ARTCB","Asphalt and road oil total consumption","Billion Btu",3207,12305,22737
+"2022","ARTCP","Asphalt and road oil total consumption","Thousand barrels",483,1854,3426
+"2022","ARTXP","Asphalt and road oil total end-use consumption","Thousand barrels",483,1854,3426
+"2022","ARTXB","Asphalt and road oil total end-use consumption","Billion Btu",3207,12305,22737
+"2022","ARTXV","Asphalt and road oil total end-use expenditures","Million dollars",59.2,228.2,417.8
+"2022","ARTCV","Asphalt and road oil total expenditures","Million dollars",59.2,228.2,417.8
+"2022","P1TXD","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" average price, all end-use sectors","Dollars per million Btu",21.25,34.12,33.61
+"2022","P1TCD","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" average price, all sectors","Dollars per million Btu",21.25,34.12,33.61
+"2022","P1TCP","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total consumption","Thousand barrels",509,3209,5728
+"2022","P1TCB","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total consumption","Billion Btu",3356,19896,35767
+"2022","P1TXB","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total end-use consumption","Billion Btu",3356,19896,35766
+"2022","P1TXP","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total end-use consumption","Thousand barrels",509,3209,5728
+"2022","P1TXV","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total end-use expenditures","Million dollars",70.6,649.6,1134.3
+"2022","P1TCV","Asphalt and road oil, aviation gasoline, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total expenditures","Million dollars",70.6,649.6,1134.3
+"2022","P1ICD","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" average price in the  industrial sector","Dollars per million Btu",19.69,27.66,26.4
+"2022","P1ICB","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" consumed by the industrial sector","Billion Btu",3258,16893,29574
+"2022","P1ICP","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" consumed by the industrial sector","Thousand barrels",492,2685,4644
+"2022","P1ISB","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" consumed by the industrial sector excluding refinery fuel and intermediate products","Billion Btu",3258,16893,29574
+"2022","P1ICV","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" expenditures in the  industrial sector","Million dollars",64.1,467.3,780.8
+"2022","P1SCB","Asphalt and road oil, kerosene, lubricants, petroleum coke, and ""other petroleum products"" total consumption adjusted for process fuel and intermediate products","Billion Btu",3325,19038,33749
+"2022","HLICK","Average factor for converting hydrocarbon gas liquids consumed by the industrial sector from physical unit to Btu","Million Btu per barrel",3.841,3.841,NA
+"2022","HLTCK","Average factor for converting hydrocarbon gas liquids total consumption from physical unit to Btu","Million Btu per barrel",3.841,3.841,3.841
+"2022","AVTXD","Aviation gasoline average price, all end-use sectors","Dollars per million Btu",0,36.02,36.02
+"2022","AVTCD","Aviation gasoline average price, all sectors","Dollars per million Btu",0,36.02,36.02
+"2022","ABICP","Aviation gasoline blending components consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","ABICB","Aviation gasoline blending components consumed by the industrial sector","Billion Btu",0,0,0
+"2022","AVACB","Aviation gasoline consumed by the transportation sector","Billion Btu",0,236,409
+"2022","AVACP","Aviation gasoline consumed by the transportation sector","Thousand barrels",0,47,81
+"2022","AVACV","Aviation gasoline expenditures in the transportation sector","Million dollars",0,8.5,14.7
+"2022","AVACD","Aviation gasoline price in the transportation sector","Dollars per million Btu",0,36.02,36.02
+"2022","AVTCB","Aviation gasoline total consumption","Billion Btu",0,236,409
+"2022","AVTCP","Aviation gasoline total consumption","Thousand barrels",0,47,81
+"2022","AVTXP","Aviation gasoline total end-use consumption","Thousand barrels",0,47,81
+"2022","AVTXB","Aviation gasoline total end-use consumption","Billion Btu",0,236,409
+"2022","AVTXV","Aviation gasoline total end-use expenditures","Million dollars",0,8.5,14.7
+"2022","AVTCV","Aviation gasoline total expenditures","Million dollars",0,8.5,14.7
+"2022","BTVHN","Battery electric vehicle (BEV) light-duty stocks","Thousands of registered vehicles",5,38.7,47.5
+"2022","BTCAS","Battery storage generating units usage factor","Percent",0,19,0.7
+"2022","BTGBP","Battery storage units net summer capacity in all sectors","Thousand kilowatts",0,8,11
+"2022","BDCCP","Biodiesel consumed by the commercial sector","Thousand barrels",0,0,0
+"2022","BDCCB","Biodiesel consumed by the commercial sector","Billion Btu",NA,0,0
+"2022","BDEIB","Biodiesel consumed by the electric power sector","Billion Btu",0,0,1
+"2022","BDEIP","Biodiesel consumed by the electric power sector","Thousand barrels",NA,0,0
+"2022","BDRCP","Biodiesel consumed by the residential sector","Thousand barrels",0,0,0
+"2022","BDRCB","Biodiesel consumed by the residential sector","Billion Btu",0,0,0
+"2022","BDACP","Biodiesel consumed by the transportation sector","Thousand barrels",10,273,642
+"2022","BDACB","Biodiesel consumed by the transportation sector","Billion Btu",53,1464,3441
+"2022","BDSUP","Biodiesel product supplied","Thousand barrels",6,160,377
+"2022","BDSUB","Biodiesel product supplied","Billion Btu",31,858,2018
+"2022","BDCUP","Biodiesel product supplied portion to the commercial sector","Thousand barrels",0,0,0
+"2022","BDCUB","Biodiesel product supplied portion to the commercial sector","Billion Btu",0,0,0
+"2022","BDEUB","Biodiesel product supplied portion to the electric power sector","Billion Btu",0,0,1
+"2022","BDEUP","Biodiesel product supplied portion to the electric power sector","Thousand barrels",0,0,0
+"2022","BDXUP","Biodiesel product supplied portion to the end-use sectors","Thousand barrels",6,160,376
+"2022","BDXUB","Biodiesel product supplied portion to the end-use sectors","Billion Btu",31,858,2017
+"2022","BDRUB","Biodiesel product supplied portion to the residential sector","Billion Btu",0,0,0
+"2022","BDRUP","Biodiesel product supplied portion to the residential sector","Thousand barrels",0,0,0
+"2022","BDAUB","Biodiesel product supplied portion to the transportation sector","Billion Btu",31,858,2017
+"2022","BDAUP","Biodiesel product supplied portion to the transportation sector","Thousand barrels",6,160,376
+"2022","BDFDB","Biodiesel production (total biomass inputs as feedstock), including liquids and losses & co-products","Billion Btu",NA,NA,120
+"2022","BDCBP","Biodiesel refinery and blender net inputs portion to the commercial sector","Thousand barrels",0,0,0
+"2022","BDCBB","Biodiesel refinery and blender net inputs portion to the commercial sector","Billion Btu",0,0,0
+"2022","BDRBB","Biodiesel refinery and blender net inputs portion to the residential sector","Billion Btu",0,0,0
+"2022","BDRBP","Biodiesel refinery and blender net inputs portion to the residential sector","Thousand barrels",0,0,0
+"2022","BDABP","Biodiesel refinery and blender net inputs portion to the transportation sector","Thousand barrels",4,113,266
+"2022","BDABB","Biodiesel refinery and blender net inputs portion to the transportation sector","Billion Btu",22,606,1424
+"2022","BDTXB","Biodiesel total end-use consumption","Billion Btu",53,1464,NA
+"2022","BDTXP","Biodiesel total end-use consumption","Thousand barrels",10,273,NA
+"2022","BDRIB","Biodiesel total refinery and blender net inputs","Billion Btu",22,606,1424
+"2022","BDRIP","Biodiesel total refinery and blender net inputs","Thousand barrels",4,113,266
+"2022","BFTCB","Biofuels total consumption","Billion Btu",NA,21337,36123
+"2022","BMCAS","Biomass generating units capacity factor","Percent",55.4,50.2,63.4
+"2022","BMTCB","Biomass total consumption","Billion Btu",1923,35988,162230
+"2022","CLCCE","Coal CO2 emissions for the commercial sector","Million metric tons CO2",NA,0,0
+"2022","CLICE","Coal CO2 emissions for the industrial sector","Million metric tons CO2",NA,NA,3.1
+"2022","CLRCE","Coal CO2 emissions for the residential sector (through 2008)","Million metric tons CO2",0,0,NA
+"2022","CLTXD","Coal average price, all end-use sectors","Dollars per million Btu",0,2.91,5.74
+"2022","CLTCD","Coal average price, all sectors","Dollars per million Btu",0,3.09,4.51
+"2022","CLRFB","Coal consumed as refinery fuel","Billion Btu",0,0,0
+"2022","CLKCB","Coal consumed at coke plants (coking coal)","Billion Btu",0,0,24195
+"2022","CLKCP","Coal consumed by coke plants (coking coal)","Thousand short tons",0,0,830
+"2022","CLOCB","Coal consumed by industrial users other than coke plants","Billion Btu",0,9442,9497
+"2022","CLOCP","Coal consumed by industrial users other than coke plants","Thousand short tons",0,425,367
+"2022","CLCCP","Coal consumed by the commercial sector","Thousand short tons",0,0,9
+"2022","CLCCB","Coal consumed by the commercial sector","Billion Btu",0,0,236
+"2022","CLEIB","Coal consumed by the electric power sector","Billion Btu",0,52490,33811
+"2022","CLEIP","Coal consumed by the electric power sector","Thousand short tons",0,2119,1652
+"2022","CLICP","Coal consumed by the industrial sector","Thousand short tons",0,425,1197
+"2022","CLICB","Coal consumed by the industrial sector","Billion Btu",0,9442,33692
+"2022","CLISB","Coal consumed by the industrial sector excluding refinery fuel","Billion Btu",0,9442,33692
+"2022","CLOSB","Coal consumed by the industrial sector other than coke plants excluding refinery fuel","Billion Btu",0,9442,9497
+"2022","CLRCB","Coal consumed by the residential sector","Billion Btu",0,0,0
+"2022","CLRCP","Coal consumed by the residential sector","Thousand short tons",0,0,0
+"2022","CLACP","Coal consumed by the transportation sector","Thousand short tons",0,0,0
+"2022","CLACB","Coal consumed by the transportation sector","Billion Btu",0,0,0
+"2022","CLKCV","Coal expenditures at coke plants","Million dollars",0,0,145.3
+"2022","CLCCV","Coal expenditures in the commercial sector","Million dollars",0,0,1.5
+"2022","CLEIV","Coal expenditures in the electric power sector","Million dollars",0,163.7,110.8
+"2022","CLICV","Coal expenditures in the industrial sector","Million dollars",0,27.4,193.3
+"2022","CLOCV","Coal expenditures in the industrial sector other than coke plants","Million dollars",0,27.4,48
+"2022","CLRCV","Coal expenditures in the residential sector","Million dollars",0,0,0
+"2022","CLACV","Coal expenditures in the transportation sector","Million dollars",0,0,0
+"2022","CLCAS","Coal generating units capacity factor","Percent",0,23.7,16.3
+"2022","CLGBP","Coal generating units net summer capacity in all sectors","Thousand kilowatts",0,1758,2536
+"2022","CLKCD","Coal price at coke plants","Dollars per million Btu",0,0,6.01
+"2022","CLCCD","Coal price in the commercial sector","Dollars per million Btu",0,0,6.24
+"2022","CLEID","Coal price in the electric power sector","Dollars per million Btu",0,3.12,3.28
+"2022","CLICD","Coal price in the industrial sector","Dollars per million Btu",0,2.91,5.74
+"2022","CLOCD","Coal price in the industrial sector other than coke plants","Dollars per million Btu",0,2.91,5.05
+"2022","CLRCD","Coal price in the residential sector","Dollars per million Btu",0,0,0
+"2022","CLACD","Coal price in the transportation sector","Dollars per million Btu",0,0,0
+"2022","CLTCB","Coal total consumption","Billion Btu",0,61932,67739
+"2022","CLTCP","Coal total consumption","Thousand short tons",0,2545,2858
+"2022","CLSCB","Coal total consumption adjusted for process fuel","Billion Btu",0,61932,67739
+"2022","CLTXP","Coal total end-use consumption","Thousand barrels",0,425,1206
+"2022","CLTXB","Coal total end-use consumption","Billion Btu",0,9442,33927
+"2022","CLTXV","Coal total end-use expenditures","Million dollars",0,27.4,194.8
+"2022","CLTCV","Coal total expenditures","Million dollars",0,191.1,305.5
+"2022","HVCAS","Conventional hydroelectric generating units capacity factor","Percent",0,34.4,15
+"2022","HVGBP","Conventional hydroelectric power generating units net summer capacity in all sectors","Thousand kilowatts",0,590,867
+"2022","ZWCDP","Cooling degree days (CDD)","Days",1769,1212,1188
+"2022","COICP","Crude oil consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","COICB","Crude oil consumed by the industrial sector","Billion Btu",0,0,0
+"2022","PAPRP","Crude oil production (including lease condensate)","Thousand barrels",0,0,7
+"2022","PAPRB","Crude oil production (including lease condensate)","Billion Btu",0,0,40
+"2022","GDPRV","Current-dollar gross domestic product (GDP)","Million dollars",165768.4,484907.6,666681.8
+"2022","EVDCN","DC fast charging ports for electric vehicles","Number",39,725,903
+"2022","EVDCR","DC fast charging ports per location","Number",4.88,3.03,4.16
+"2022","WDEXB","Densified biomass exports (available for 2016 forward)","Billion Btu",0,0,9754
+"2022","DKEID","Distillate fuel oil (including kerosene-type jet fuel before 2001) average price in the electric power sector","Dollars per million Btu",0,25.75,19.81
+"2022","DKEIP","Distillate fuel oil (including kerosene-type jet fuel before 2001) consumed by the electric power sector","Thousand barrels",0,240,1073
+"2022","DKEIB","Distillate fuel oil (including kerosene-type jet fuel before 2001) consumed by the electric power sector","Billion Btu",0,1386,6183
+"2022","DKEIV","Distillate fuel oil (including kerosene-type jet fuel before 2001) expenditures in the electric power sector","Million dollars",0,35.7,122.5
+"2022","DFTXD","Distillate fuel oil average price, all end-use sectors","Dollars per million Btu",35.05,35.1,33.9
+"2022","DFTCD","Distillate fuel oil average price, all sectors","Dollars per million Btu",35.05,34.97,33.46
+"2022","DFRFB","Distillate fuel oil consumed as refinery fuel","Billion Btu",0,0,0
+"2022","DFCSB","Distillate fuel oil consumed by the commercial sector including biofuels product supplied","Billion Btu",620,7518,8693
+"2022","DFEIP","Distillate fuel oil consumed by the electric power sector","Thousand barrels",0,240,1073
+"2022","DFEIB","Distillate fuel oil consumed by the electric power sector","Billion Btu",0,1386,6183
+"2022","DFICB","Distillate fuel oil consumed by the industrial sector","Billion Btu",120,6000,15404
+"2022","DFICP","Distillate fuel oil consumed by the industrial sector","Thousand barrels",21,NA,2672
+"2022","DFISB","Distillate fuel oil consumed by the industrial sector excluding refinery fuel","Billion Btu",120,6000,15404
+"2022","DFRCP","Distillate fuel oil consumed by the residential sector","Thousand barrels",105,2530,2155
+"2022","DFRCB","Distillate fuel oil consumed by the residential sector","Billion Btu",606,14596,12433
+"2022","DFRSB","Distillate fuel oil consumed by the residential sector including biofuels product supplied","Billion Btu",606,14596,12433
+"2022","DFACB","Distillate fuel oil consumed by the transportation sector","Billion Btu",NA,NA,151652
+"2022","DFCCV","Distillate fuel oil expenditures in the commercial sector","Million dollars",NA,NA,243.4
+"2022","DFEIV","Distillate fuel oil expenditures in the electric power sector","Million dollars",0,35.7,122.5
+"2022","DFICV","Distillate fuel oil expenditures in the industrial sector","Million dollars",3.3,160.1,423.5
+"2022","DFRCV","Distillate fuel oil expenditures in the residential sector","Million dollars",19.2,454,369.9
+"2022","DFEID","Distillate fuel oil price in the electric power sector","Dollars per million Btu",0,25.75,19.81
+"2022","DFICD","Distillate fuel oil price in the industrial sector","Dollars per million Btu",27.69,26.68,27.5
+"2022","DFRCD","Distillate fuel oil price in the residential sector","Dollars per million Btu",31.77,31.1,29.75
+"2022","DFTCB","Distillate fuel oil total consumption","Billion Btu",3698,94023,194365
+"2022","DFTCP","Distillate fuel oil total consumption","Thousand barrels",641,16304,33708
+"2022","DFSCB","Distillate fuel oil total consumption adjusted for process fuel","Billion Btu",3730,94881,196382
+"2022","DFTXP","Distillate fuel oil total end-use consumption","Thousand barrels",641,16064,32635
+"2022","DFTXB","Distillate fuel oil total end-use consumption","Billion Btu",3698,92637,188181
+"2022","DFTXV","Distillate fuel oil total end-use expenditures","Million dollars",130.7,3281.9,6447.5
+"2022","DFTCV","Distillate fuel oil total expenditures","Million dollars",130.7,3317.6,6570
+"2022","DACCP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the commercial sector","Thousand barrels",107,1303,1507
+"2022","DACCB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the commercial sector","Billion Btu",620,7518,8693
+"2022","DAEIP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the electric power sector","Thousand barrels",0,240,1073
+"2022","DAEIB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the electric power sector","Billion Btu",0,1386,6185
+"2022","DAICP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the industrial sector","Thousand barrels",21,1041,2672
+"2022","DAICB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the industrial sector","Billion Btu",120,6000,15404
+"2022","DARCB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the residential sector","Billion Btu",606,14596,12433
+"2022","DARCP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the residential sector","Thousand barrels",105,2530,2155
+"2022","DAACP","Distillate fuel oil, biodiesel, and renewable diesel consumed by the transportation sector","Thousand barrels",414,11351,26678
+"2022","DAACB","Distillate fuel oil, biodiesel, and renewable diesel consumed by the transportation sector","Billion Btu",2384,65381,153669
+"2022","DMACP","Distillate fuel oil, excluding biodiesel and renewable diesel, consumed by the transportation sector","Thousand barrels",404,11077,26036
+"2022","DMACB","Distillate fuel oil, excluding biodiesel and renewable diesel, consumed by the transportation sector","Billion Btu",2330,63917,150228
+"2022","DMTCP","Distillate fuel oil, excluding biodiesel and renewable diesel, total consumption","Thousand barrels",637,16191,33442
+"2022","DMTCB","Distillate fuel oil, excluding biodiesel and renewable diesel, total consumption","Billion Btu",3676,93417,192941
+"2022","DMCCB","Distillate fuel oil, excluding biofuels, consumed by the commercial sector","Billion Btu",620,7518,8693
+"2022","DMCCP","Distillate fuel oil, excluding biofuels, consumed by the commercial sector","Thousand barrels",107,1303,1507
+"2022","DMEIB","Distillate fuel oil, excluding biofuels, consumed by the electric power sector","Billion Btu",0,1386,6183
+"2022","DMEIP","Distillate fuel oil, excluding biofuels, consumed by the electric power sector","Thousand barrels",0,240,1073
+"2022","DMICB","Distillate fuel oil, excluding biofuels, consumed by the industrial sector","Billion Btu",120,6000,15404
+"2022","DMICP","Distillate fuel oil, excluding biofuels, consumed by the industrial sector","Thousand barrels",21,1041,2672
+"2022","DMRCP","Distillate fuel oil, excluding biofuels, consumed by the residential sector","Thousand barrels",105,2530,2155
+"2022","DMRCB","Distillate fuel oil, excluding biofuels, consumed by the residential sector","Billion Btu",606,14596,12433
+"2022","ELVHS","Electric vehicle (EV) share of total light-duty vehicles","Percent",2.7,1.3,1
+"2022","EVNNP","Electric vehicle charging locations with both networked and non-networked ports","Number",5,6,10
+"2022","EVPPP","Electric vehicle charging locations with both public and private ports","Number",10,32,57
+"2022","EVNTP","Electric vehicle charging locations with networked ports only","Number",307,1268,1049
+"2022","EVNOP","Electric vehicle charging locations with non-networked ports only","Number",37,272,309
+"2022","EVPVP","Electric vehicle charging locations with private ports only","Number",36,99,98
+"2022","EVPUP","Electric vehicle charging locations with public ports only","Number",303,1415,1213
+"2022","ESTXD","Electricity average price, all end-use sectors","Dollars per million Btu",43.78,39.04,31.5
+"2022","ESTCD","Electricity average price, all sectors","Dollars per million Btu",43.78,39.04,31.5
+"2022","ESCCB","Electricity consumed by (sales to ultimate customers in) the commercial sector","Billion Btu",24874,94251,233913
+"2022","ESCCP","Electricity consumed by (sales to ultimate customers in) the commercial sector","Million kilowatthours",7290,27623,68556
+"2022","ESICP","Electricity consumed by (sales to ultimate customers in) the industrial sector","Million kilowatthours",182,3602,16861
+"2022","ESICB","Electricity consumed by (sales to ultimate customers in) the industrial sector","Billion Btu",620,12289,57530
+"2022","ESRCB","Electricity consumed by (sales to ultimate customers in) the residential sector","Billion Btu",8595,95759,159400
+"2022","ESRCP","Electricity consumed by (sales to ultimate customers in) the residential sector","Million kilowatthours",2519,28065,46718
+"2022","ESRPP","Electricity consumed by (sales to ultimate customers in) the residential sector per capita","Kilowatthours",3722,4532,5380
+"2022","ESACB","Electricity consumed by (sales to ultimate customers in) the transportation sector","Billion Btu",855,1339,443
+"2022","ESACP","Electricity consumed by (sales to ultimate customers in) the transportation sector","Million kilowatthours",251,392,130
+"2022","ESRFB","Electricity consumed by refineries","Billion Btu",0,0,0
+"2022","BTVHP","Electricity consumed for battery electric vehicle (BEV) use","Million kilowatthours",9,69,76
+"2022","ESVHP","Electricity consumed for electric vehicle (EV) use","Million kilowatthours",14,106,110
+"2022","PHVHP","Electricity consumed for plug-in hybrid electric vehicle (PHEV) use","Million kilowatthours",5,36,34
+"2022","ESCCV","Electricity expenditures in the commercial sector","Million dollars",1137,3494.9,6620.6
+"2022","ESICV","Electricity expenditures in the industrial sector","Million dollars",14.1,360.4,1347.2
+"2022","ESRCV","Electricity expenditures in the residential sector","Million dollars",357.3,4057.9,6233.1
+"2022","ESACV","Electricity expenditures in the transportation sector","Million dollars",21.3,37.1,14.1
+"2022","ELEXB","Electricity exported from the United States","Billion Btu",0,0,0
+"2022","ELEXP","Electricity exported from the United States","Million kilowatthours",0,0,0
+"2022","ELEXD","Electricity exports average price","Dollars per million Btu",0,0,0
+"2022","ELEXV","Electricity exports expenditures","Million dollars",0,0,0
+"2022","ELIMP","Electricity imported into the United States","Million kilowatthours",0,0,0
+"2022","ELIMB","Electricity imported into the United States","Billion Btu",0,0,0
+"2022","ELIMD","Electricity imports average price","Dollars per million Btu",0,0,0
+"2022","ELIMV","Electricity imports expenditures","Million dollars",0,0,0
+"2022","ESCCD","Electricity price in the commercial sector","Dollars per million Btu",45.71,37.08,28.3
+"2022","ESICD","Electricity price in the industrial sector","Dollars per million Btu",22.68,29.33,23.42
+"2022","ESRCD","Electricity price in the residential sector","Dollars per million Btu",41.57,42.38,39.1
+"2022","ESACD","Electricity price in the transportation sector","Dollars per million Btu",24.93,27.69,31.81
+"2022","ESISB","Electricity sales to the industrial sector excluding refinery use","Billion Btu",620,12289,57530
+"2022","ESTCB","Electricity total consumption (electricity sales to ultimate customers)","Billion Btu",34944,203637,451287
+"2022","ESTCP","Electricity total consumption (electricity sales to ultimate customers)","Million kilowatthours",10242,59683,132265
+"2022","ESTPP","Electricity total consumption (electricity sales to ultimate customers) per capita","Kilowatthours",15134,9638,15232
+"2022","ESSCB","Electricity total consumption adjusted for process fuel","Billion Btu",34944,203637,451287
+"2022","ESTXP","Electricity total end-use consumption (electricity sales to ultimate customers)","Million kilowatthours",10242,59683,132265
+"2022","ESTXB","Electricity total end-use consumption (electricity sales to ultimate customers)","Billion Btu",34944,203637,451287
+"2022","ESTXV","Electricity total end-use expenditures","Million dollars",1529.7,7950.3,14215
+"2022","ESTCV","Electricity total expenditures","Million dollars",1529.7,7950.3,14215
+"2022","TNCCB","End-use energy consumption in the commercial sector","Billion Btu",43149,193795,355677
+"2022","TNICB","End-use energy consumption in the industrial sector","Billion Btu",4238,67377,325342
+"2022","TNRCB","End-use energy consumption in the residential sector","Billion Btu",21920,213344,298936
+"2022","TNACB","End-use energy consumption in the transportation sector","Billion Btu",16358,393408,735714
+"2022","TEGDS","Energy expenditures as percent of current-dollar GDP","Percent",1.55,5.12,6.38
+"2022","BDLCB","Energy losses and co-products from the production of biodiesel","Billion Btu",0,0,2
+"2022","EMLCB","Energy losses and co-products from the production of fuel ethanol","Billion Btu",NA,0,0
+"2022","EQICP","Ethane consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","EQICB","Ethane consumed by the industrial sector","Billion Btu",0,0,0
+"2022","EQTCP","Ethane total consumption","Thousand barrels",0,0,NA
+"2022","EQTCB","Ethane total consumption","Billion Btu",0,0,0
+"2022","EYICB","Ethylene from refineries consumed by the industrial sector","Billion Btu",0,0,0
+"2022","EYICP","Ethylene from refineries consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","EYTCP","Ethylene from refineries total consumption","Thousand barrels",0,0,0
+"2022","EYTCB","Ethylene from refineries total consumption","Billion Btu",0,0,0
+"2022","BDEIK","Factor for converting biodiesel consumed by the electric power sector from physical units to Btu","Million Btu per barrel",0,0,4.975
+"2022","BDTCK","Factor for converting biodiesel total consumption from physical units to Btu","Million Btu per barrel",5.359,5.359,5.359
+"2022","CLKCK","Factor for converting coal consumed at coke plants from physical units to Btu","Million Btu per short ton",0,0,29.141
+"2022","CLOCK","Factor for converting coal consumed by industrial users other than coke plants from physical units to Btu","Million Btu per short ton",0,22.193,25.887
+"2022","CLEIK","Factor for converting coal consumed by the electric power sector from physical units to Btu","Million Btu per short ton",0,24.77,20.462
+"2022","CLHCK","Factor for converting coal consumed by the residential and commercial sectors from physical units to Btu","Million Btu per short ton",0,0,26.991
+"2022","CLACK","Factor for converting coal consumed by the transportation sector from physical units to Btu","Million Btu per short ton",0,0,0
+"2022","COPRK","Factor for converting crude oil production from physical units to Btu for the United States","Million Btu per barrel",0,0,5.684
+"2022","NGMPK","Factor for converting marketed natural gas production from physical units to Btu","Thousand Btu per cubic feet",NA,1.039,NA
+"2022","NGEIK","Factor for converting natural gas consumed by the electric power sector from physical units to Btu","Thousand Btu per cubic foot",0,1.039,1.043
+"2022","NGTCK","Factor for converting natural gas total consumption from physical units to Btu","Thousand Btu per cubic foot",1.034,1.039,1.049
+"2022","NGTXK","Factor for converting natural gas used by end-use sectors from physical units to Btu","Thousand Btu per cubic foot",1.034,1.039,1.057
+"2022","FFTCE","Fossil fuel CO2 emissions for all sectors","Million metric tons CO2",NA,NA,96.4
+"2022","FFICE","Fossil fuel CO2 emissions for the industrial sector","Million metric tons CO2",NA,2.7,NA
+"2022","FFACE","Fossil fuel CO2 emissions for the transportation sector","Million metric tons CO2",NA,25.9,NA
+"2022","FFGBP","Fossil fuel total generating units net summer capacity in all sectors","Thousand kilowatts",21,8760,17876
+"2022","FFTCB","Fossil fuels total consumption","Billion Btu",48174,783906,1531770
+"2022","EMFDB","Fuel ethanol production (total biomass inputs as feedstock), including liquids and losses & co-products","Billion Btu",0,0,0
+"2022","EMCCB","Fuel ethanol, excluding denaturant, consumed by the commercial sector ","Billion Btu",29,683,888
+"2022","EMICB","Fuel ethanol, excluding denaturant, consumed by the industrial sector ","Billion Btu",14,222,285
+"2022","EMACB","Fuel ethanol, excluding denaturant, consumed by the transportation sector   ","Billion Btu",825,18968,31506
+"2022","ENCCP","Fuel ethanol, including denaturant, consumed by the commercial sector","Thousand barrels",8,NA,NA
+"2022","ENICP","Fuel ethanol, including denaturant, consumed by the industrial sector","Thousand barrels",4,NA,82
+"2022","ENACP","Fuel ethanol, including denaturant, consumed by the transportation sector","Thousand barrels",NA,5447,NA
+"2022","ENTCP","Fuel ethanol, including denaturant, total consumption","Thousand barrels",249,5707,9385
+"2022","GEEGP","Geothermal electricity net generation in the electric power sector","Million kilowatthours",0,0,0
+"2022","GECCB","Geothermal energy consumed by the commercial sector","Billion Btu",0,0,885
+"2022","GEICB","Geothermal energy consumed by the industrial sector","Billion Btu",0,0,0
+"2022","GERCB","Geothermal energy consumed by the residential sector","Billion Btu",22,570,816
+"2022","GEEGB","Geothermal energy consumed for electricity generation by the electric power sector","Billion Btu",0,0,0
+"2022","GETCB","Geothermal energy total consumption","Billion Btu",22,570,1701
+"2022","GETXB","Geothermal energy total end-use consumption","Billion Btu",22,570,1701
+"2022","GECAS","Geothermal generating units capacity factor","Percent",0,0,0
+"2022","GEGBP","Geothermal generating units net summer capacity in all sectors","Thousand kilowatts",0,0,0
+"2022","ZWHDP","Heating degree days (HDD)","Days",3736,4517,4233
+"2022","HLTXD","Hydrocarbon gas liquids average price, all end-use sectors","Dollars per million Btu",NA,29.99,28.1
+"2022","HLTCD","Hydrocarbon gas liquids average price, all sectors","Dollars per million Btu",27.62,29.99,28.1
+"2022","HLRFB","Hydrocarbon gas liquids consumed as refinery fuel and intermediate products","Billion Btu",NA,0,NA
+"2022","HLCCB","Hydrocarbon gas liquids consumed by the commercial sector","Billion Btu",12,3332,7828
+"2022","HLCCP","Hydrocarbon gas liquids consumed by the commercial sector","Thousand barrels",3,868,NA
+"2022","HLICB","Hydrocarbon gas liquids consumed by the industrial sector","Billion Btu",45,2002,4952
+"2022","HLICP","Hydrocarbon gas liquids consumed by the industrial sector","Thousand barrels",12,521,1289
+"2022","HLISB","Hydrocarbon gas liquids consumed by the industrial sector adjusted for processed fuel","Billion Btu",45,2002,NA
+"2022","HLRCB","Hydrocarbon gas liquids consumed by the residential sector","Billion Btu",40,6700,NA
+"2022","HLRCP","Hydrocarbon gas liquids consumed by the residential sector","Thousand barrels",10,1744,3007
+"2022","HLACP","Hydrocarbon gas liquids consumed by the transportation sector","Thousand barrels",1,45,52
+"2022","HLACB","Hydrocarbon gas liquids consumed by the transportation sector","Billion Btu",2,172,200
+"2022","HLCCV","Hydrocarbon gas liquids expenditures in the commercial sector","Million dollars",NA,74.6,167.8
+"2022","HLICV","Hydrocarbon gas liquids expenditures in the industrial sector","Million dollars",1,42.8,98.6
+"2022","HLRCV","Hydrocarbon gas liquids expenditures in the residential sector","Million dollars",1.5,NA,417.9
+"2022","HLACV","Hydrocarbon gas liquids expenditures in the transportation sector","Million dollars",0.1,4.3,4.9
+"2022","HLCCD","Hydrocarbon gas liquids price in the commercial sector","Dollars per million Btu",22.4,22.4,21.44
+"2022","HLICD","Hydrocarbon gas liquids price in the industrial sector","Dollars per million Btu",21.38,21.38,19.91
+"2022","HLRCD","Hydrocarbon gas liquids price in the residential sector","Dollars per million Btu",36.44,36.46,36.18
+"2022","HLACD","Hydrocarbon gas liquids price in the transportation sector","Dollars per million Btu",23.36,25.1,24.7
+"2022","HLTCP","Hydrocarbon gas liquids total consumption","Thousand barrels",26,3178,6387
+"2022","HLTCB","Hydrocarbon gas liquids total consumption","Billion Btu",99,NA,24531
+"2022","HLSCB","Hydrocarbon gas liquids total consumption adjusted for processed fuel","Billion Btu",99,12207,24531
+"2022","HLTXB","Hydrocarbon gas liquids total end-use consumption","Billion Btu",NA,12207,24531
+"2022","HLTXP","Hydrocarbon gas liquids total end-use consumption","Thousand barrels",26,3178,6387
+"2022","HLTXV","Hydrocarbon gas liquids total end-use expenditures","Million dollars",2.7,366.1,689.3
+"2022","HLTCV","Hydrocarbon gas liquids total expenditures","Million dollars",NA,366.1,NA
+"2022","HPGBP","Hydroelectric pumped storage generating units net summer capacity in all sectors","Thousand kilowatts",0,0,3241
+"2022","HPCAS","Hydroelectric pumped storage generating units usage factor","Percent",0,0,16.7
+"2022","HYCCP","Hydroelectricity net generation in the commercial sector","Million kilowatthours",0,0,0
+"2022","HYEGP","Hydroelectricity net generation in the electric power sector","Million kilowatthours",0,1780,1137
+"2022","HYICP","Hydroelectricity net generation in the industrial sector","Million kilowatthours",0,0,0
+"2022","HYTCP","Hydroelectricity total net generation","Million kilowatthours",0,1780,1137
+"2022","HYTXP","Hydroelectricity, total end-use net generation","Million kilowatthours",0,0,0
+"2022","HYCCB","Hydropower consumed by the commercial sector","Billion Btu",0,0,0
+"2022","HYICB","Hydropower consumed by the industrial sector","Billion Btu",0,0,1
+"2022","HYEGB","Hydropower consumed for electricity generation by the electric power sector","Billion Btu",0,6072,3878
+"2022","HYTXB","Hydropower energy total end-use consumption","Billion Btu",0,0,1
+"2022","HYTCB","Hydropower total consumption","Billion Btu",0,6072,3880
+"2022","IQICP","Isobutane consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","IQICB","Isobutane consumed by the industrial sector","Billion Btu",0,0,0
+"2022","IQTCB","Isobutane total consumption","Billion Btu",0,0,0
+"2022","IQTCP","Isobutane total consumption","Thousand barrels",0,0,0
+"2022","IYICP","Isobutylene from refineries consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","IYICB","Isobutylene from refineries consumed by the industrial sector","Billion Btu",0,0,0
+"2022","IYTCB","Isobutylene from refineries total consumption","Billion Btu",0,0,0
+"2022","IYTCP","Isobutylene from refineries total consumption","Thousand barrels",0,0,0
+"2022","JFTXD","Jet fuel average price, all end-use sectors","Dollars per million Btu",0,27.03,24.88
+"2022","JFTCD","Jet fuel average price, all sectors","Dollars per million Btu",0,27.03,24.88
+"2022","JFACP","Jet fuel consumed by the transportation sector","Thousand barrels",0,6252,21634
+"2022","JFACB","Jet fuel consumed by the transportation sector","Billion Btu",0,35449,122663
+"2022","JFACV","Jet fuel expenditures in the transportation sector","Million dollars",0,958.3,3051.7
+"2022","JFACD","Jet fuel price in the transportation sector","Dollars per million Btu",0,27.03,24.88
+"2022","JFTCP","Jet fuel total consumption","Thousand barrels",0,6252,21634
+"2022","JFTCB","Jet fuel total consumption","Billion Btu",0,35449,122663
+"2022","JFTXP","Jet fuel total end-use consumption","Thousand barrels",0,6252,21634
+"2022","JFTXB","Jet fuel total end-use consumption","Billion Btu",0,35449,122663
+"2022","JFTXV","Jet fuel total end-use expenditures","Million dollars",0,958.3,3051.7
+"2022","JFTCV","Jet fuel total expenditures","Million dollars",0,958.3,3051.7
+"2022","KSTXD","Kerosene average price, all end-use sectors","Dollars per million Btu",34.8,38.82,37.15
+"2022","KSTCD","Kerosene average price, all sectors","Dollars per million Btu",34.8,38.82,37.15
+"2022","KSCCP","Kerosene consumed by the commercial sector","Thousand barrels",0,8,13
+"2022","KSCCB","Kerosene consumed by the commercial sector","Billion Btu",0,47,71
+"2022","KSICP","Kerosene consumed by the industrial sector","Thousand barrels",0,1,2
+"2022","KSICB","Kerosene consumed by the industrial sector","Billion Btu",0,5,10
+"2022","KSRCB","Kerosene consumed by the residential sector","Billion Btu",0,159,393
+"2022","KSRCP","Kerosene consumed by the residential sector","Thousand barrels",0,28,69
+"2022","KSCCV","Kerosene expenditures in the commercial sector","Million dollars",0,1.8,2.6
+"2022","KSICV","Kerosene expenditures in the industrial sector","Million dollars",0,0.1,0.3
+"2022","KSRCV","Kerosene expenditures in the residential sector","Million dollars",0,6.2,14.6
+"2022","KSCCD","Kerosene price in the commercial sector","Dollars per million Btu",39.09,39.09,37.24
+"2022","KSICD","Kerosene price in the industrial sector","Dollars per million Btu",27.65,27.65,33.25
+"2022","KSRCD","Kerosene price in the residential sector","Dollars per million Btu",0,39.09,37.24
+"2022","KSTCP","Kerosene total consumption","Thousand barrels",0,37,84
+"2022","KSTCB","Kerosene total consumption","Billion Btu",0,211,474
+"2022","KSTXB","Kerosene total end-use consumption","Billion Btu",0,211,474
+"2022","KSTXP","Kerosene total end-use consumption","Thousand barrels",0,37,84
+"2022","KSTXV","Kerosene total end-use expenditures","Million dollars",0,8.2,17.6
+"2022","KSTCV","Kerosene total expenditures","Million dollars",0,8.2,17.6
+"2022","EV0CN","Legacy charging ports for electric vehicles","Number",0,0,0
+"2022","EV1CN","Level 1 charging ports for electric vehicles","Number",46,45,237
+"2022","EV2CN","Level 2 charging ports for electric vehicles","Number",1491,4581,3572
+"2022","EV2CR","Level 2 charging ports per location","Number",4.37,3.31,3.05
+"2022","LUTXD","Lubricants average price, all end-use sectors","Dollars per million Btu",97.37,NA,97.37
+"2022","LUTCD","Lubricants average price, all sectors","Dollars per million Btu",NA,97.37,NA
+"2022","LUICP","Lubricants consumed by the industrial sector","Thousand barrels",8,215,346
+"2022","LUICB","Lubricants consumed by the industrial sector","Billion Btu",NA,1305,2099
+"2022","LUACB","Lubricants consumed by the transportation sector","Billion Btu",67,NA,NA
+"2022","LUICV","Lubricants expenditures in the industrial sector","Million dollars",4.9,NA,204.4
+"2022","LUACV","Lubricants expenditures in the transportation sector","Million dollars",NA,NA,321.4
+"2022","LUICD","Lubricants price in the industrial sector","Dollars per million Btu",97.37,NA,NA
+"2022","LUACD","Lubricants price in the transportation sector","Dollars per million Btu",NA,97.37,97.37
+"2022","LUTCP","Lubricants total consumption","Thousand barrels",NA,496,890
+"2022","LUTCB","Lubricants total consumption","Billion Btu",117,NA,5400
+"2022","LUTXB","Lubricants total end-use consumption","Billion Btu",117,3008,5400
+"2022","LUTXP","Lubricants total end-use consumption","Thousand barrels",19,NA,890
+"2022","LUTXV","Lubricants total end-use expenditures","Million dollars",NA,292.8,NA
+"2022","LUTCV","Lubricants total expenditures","Million dollars",11.4,292.8,NA
+"2022","MSICB","Miscellaneous petroleum products consumed by the industrial sector","Billion Btu",0,486,1591
+"2022","MSICP","Miscellaneous petroleum products consumed by the industrial sector","Thousand barrels",0,84,275
+"2022","MSICV","Miscellaneous petroleum products expenditures in the industrial sector","Million dollars",0,14.9,48.7
+"2022","MSICD","Miscellaneous petroleum products price in the industrial sector","Dollars per million Btu",0,30.58,30.58
+"2022","MGTXD","Motor gasoline average price, all end-use sectors","Dollars per million Btu",34.41,32.87,29.64
+"2022","MGTCD","Motor gasoline average price, all sectors","Dollars per million Btu",34.41,32.87,29.64
+"2022","MBICP","Motor gasoline blending components consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","MBICB","Motor gasoline blending components consumed by the industrial sector","Billion Btu",0,0,0
+"2022","MGCCB","Motor gasoline consumed by the commercial sector","Billion Btu",393,9290,12312
+"2022","MGCCP","Motor gasoline consumed by the commercial sector","Thousand barrels",78,1840,2438
+"2022","MGICB","Motor gasoline consumed by the industrial sector","Billion Btu",195,3020,3956
+"2022","MGICP","Motor gasoline consumed by the industrial sector","Thousand barrels",39,598,784
+"2022","MGACB","Motor gasoline consumed by the transportation sector","Billion Btu",11180,258080,436914
+"2022","MGACP","Motor gasoline consumed by the transportation sector","Thousand barrels",2214,51115,86535
+"2022","MGCCV","Motor gasoline expenditures in the commercial sector","Million dollars",13.5,305.3,364.9
+"2022","MGICV","Motor gasoline expenditures in the industrial sector","Million dollars",6.7,99.3,117.3
+"2022","MGACV","Motor gasoline expenditures in the transportation sector","Million dollars",384.7,8483,12949.7
+"2022","MGTPV","Motor gasoline expenditures per capita","Dollars",598.3,1435.2,1546.8
+"2022","MGCCD","Motor gasoline price in the commercial sector","Dollars per million Btu",34.41,32.87,29.64
+"2022","MGICD","Motor gasoline price in the industrial sector","Dollars per million Btu",34.41,32.87,29.64
+"2022","MGACD","Motor gasoline price in the transportation sector","Dollars per million Btu",34.41,32.87,29.64
+"2022","MGTCB","Motor gasoline total consumption","Billion Btu",11768,270390,453182
+"2022","MGTCP","Motor gasoline total consumption","Thousand barrels",2331,53553,89757
+"2022","MGTXP","Motor gasoline total end-use consumption","Thousand barrels",2331,53553,89757
+"2022","MGTXB","Motor gasoline total end-use consumption","Billion Btu",11768,270390,453182
+"2022","MGTXV","Motor gasoline total end-use expenditures","Million dollars",404.9,8887.6,13431.9
+"2022","MGTCV","Motor gasoline total expenditures","Million dollars",404.9,8887.6,13431.9
+"2022","MMCCB","Motor gasoline, excluding fuel ethanol, consumed by the commercial sector","Billion Btu",364,8607,11424
+"2022","MMICB","Motor gasoline, excluding fuel ethanol, consumed by the industrial sector","Billion Btu",180,2798,3671
+"2022","MMACB","Motor gasoline, excluding fuel ethanol, consumed by the transportation sector","Billion Btu",10355,239112,405407
+"2022","MMTCB","Motor gasoline, excluding fuel ethanol, total consumption","Billion Btu",10900,250517,420502
+"2022","NGTXD","Natural gas average price, all end-use sectors (including supplemental gaseous fuels)","Dollars per million Btu",15.21,14.73,10.78
+"2022","NGTCD","Natural gas average price, all sectors (including supplemental gaseous fuels)","Dollars per million Btu",15.21,12.42,8.75
+"2022","CYCAS","Natural gas combined cycle generating units capacity factor","Percent",0,52.7,56.8
+"2022","NGLPB","Natural gas consumed as lease and plant fuel","Billion Btu",0,0,5324
+"2022","NGRFB","Natural gas consumed as refinery fuel","Billion Btu",0,0,0
+"2022","NGEIB","Natural gas consumed by the electric power sector (including supplemental gaseous fuels)","Billion Btu",0,100688,363201
+"2022","NGEIP","Natural gas consumed by the electric power sector (including supplemental gaseous fuels)","Million cubic feet",0,96940,348300
+"2022","NGICB","Natural gas consumed by the industrial sector (including supplemental gaseous fuels)","Billion Btu",0,16824,119754
+"2022","NGICP","Natural gas consumed by the industrial sector (including supplemental gaseous fuels)","Million cubic feet",0,16190,113343
+"2022","NGISB","Natural gas consumed by the industrial sector excluding refinery fuel","Billion Btu",0,16824,114430
+"2022","NGACP","Natural gas consumed by the transportation sector","Million cubic feet",1809,29317,14593
+"2022","NGACB","Natural gas consumed by the transportation sector ","Billion Btu",1870,30465,15419
+"2022","NGASB","Natural gas consumed by the transportation sector adjusted for process fuel","Billion Btu",301,332,713
+"2022","NYCAS","Natural gas conventional steam generating units capacity factor","Percent",0,2.9,7.8
+"2022","NGCCP","Natural gas delivered to the commercial sector, used as consumption (including supplemental gaseous fuels)","Million cubic feet",15489,73916,74390
+"2022","NGCCB","Natural gas delivered to the commercial sector, used as consumption (including supplemental gaseous fuels)","Billion Btu",16015,76810,78597
+"2022","NGRCB","Natural gas delivered to the residential sector, used as consumption (including supplemental gaseous fuels)","Billion Btu",12288,85764,89021
+"2022","NGRCP","Natural gas delivered to the residential sector, used as consumption (including supplemental gaseous fuels)","Million cubic feet",11884,82532,84255
+"2022","NGCCV","Natural gas expenditures in the commercial sector (including supplemental gaseous fuels)","Million dollars",233.1,1043.7,858.5
+"2022","NGEIV","Natural gas expenditures in the electric power sector (including supplemental gaseous fuels)","Million dollars",0,833.7,2601.8
+"2022","NGICV","Natural gas expenditures in the industrial sector (including supplemental gaseous fuels)","Million dollars",0,197.8,815.5
+"2022","NGRCV","Natural gas expenditures in the residential sector (including supplemental gaseous fuels)","Million dollars",198.2,1400.6,1356.5
+"2022","NGACV","Natural gas expenditures in the transportation sector","Million dollars",3.7,5.8,18.1
+"2022","NGPZB","Natural gas for pipeline and distribution use","Billion Btu",1570,30134,14705
+"2022","NGGBP","Natural gas generating units net summer capacity in all sectors","Thousand kilowatts",21,5651,13804
+"2022","NGCCD","Natural gas price in the commercial sector (including supplemental gaseous fuels)","Dollars per million Btu",14.56,13.59,10.92
+"2022","NGEID","Natural gas price in the electric power sector (including supplemental gaseous fuels)","Dollars per million Btu",0,8.28,7.16
+"2022","NGICD","Natural gas price in the industrial sector (including supplemental gaseous fuels)","Dollars per million Btu",0,11.76,7.13
+"2022","NGRCD","Natural gas price in the residential sector (including supplemental gaseous fuels)","Dollars per million Btu",16.13,16.33,15.24
+"2022","NGACD","Natural gas price in the transportation sector","Dollars per million Btu",12.44,17.33,25.38
+"2022","NNTCB","Natural gas total consumption (excluding supplemental gaseous fuels)","Billion Btu",30174,310133,665869
+"2022","NGTCB","Natural gas total consumption (including supplemental gaseous fuels)","Billion Btu",30174,310551,665991
+"2022","NGTCP","Natural gas total consumption (including supplemental gaseous fuels)","Million cubic feet",29181,298894,634882
+"2022","NGTPB","Natural gas total consumption (including supplemental gaseous fuels) per capita","Million Btu",44.6,50.1,76.7
+"2022","NGTPP","Natural gas total consumption (including supplemental gaseous fuels) per capita","Thousand cubic feet",43.1,48.3,73.1
+"2022","NGSCB","Natural gas total consumption adjusted for process fuel","Billion Btu",28604,280417,645963
+"2022","NGTXB","Natural gas total end-use consumption (including supplemental gaseous fuels)","Billion Btu",30174,209863,302791
+"2022","NGTXP","Natural gas total end-use consumption (including supplemental gaseous fuels)","Million cubic feet",29181,201954,286582
+"2022","NGTXV","Natural gas total end-use expenditures (including supplemental gaseous fuels)","Million dollars",435.1,2647.8,3048.6
+"2022","NGTCV","Natural gas total expenditures (including supplemental gaseous fuels)","Million dollars",435.1,3481.5,5650.4
+"2022","NTCAS","Natural gas turbine generating units capacity factor","Percent",44.2,5.5,9.9
+"2022","NNEIE","Natural gas, excluding supplemental gaseous fuels, CO2 emissions for the electric power sector","Million metric tons CO2",NA,5.3,19.2
+"2022","NNICE","Natural gas, excluding supplemental gaseous fuels, CO2 emissions for the industrial sector","Million metric tons CO2",NA,NA,6.1
+"2022","NNRCE","Natural gas, excluding supplemental gaseous fuels, CO2 emissions for the residential sector","Million metric tons CO2",0.7,NA,NA
+"2022","PPICP","Natural gasoline (pentanes plus) consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","PPICB","Natural gasoline (pentanes plus) consumed by the industrial sector","Billion Btu",0,NA,0
+"2022","PPTCP","Natural gasoline (pentanes plus) total consumption","Thousand barrels",0,0,0
+"2022","PPTCB","Natural gasoline (pentanes plus) total consumption","Billion Btu",0,0,0
+"2022","NAICB","Natural gasoline consumed by the industrial sector (through 1983)","Billion Btu",0,0,0
+"2022","NAICP","Natural gasoline consumed by the industrial sector (through 1983)","Thousand barrels",0,0,0
+"2022","ELNIB","Net imports of electricity into the United States","Billion Btu",0,0,0
+"2022","ELNIP","Net imports of electricity into the United States","Million kilowatthours",0,0,0
+"2022","ELISP","Net interstate flow of electricity (negative indicates flow out of state)","Million kilowatthours",10756,25918,52123
+"2022","ELISB","Net interstate flow of electricity and associated losses (negative indicates flow out of state)","Billion Btu",90355,217723,437854
+"2022","NUEGP","Nuclear electricity net generation in the electric power sector","Million kilowatthours",0,14811,28197
+"2022","NUETP","Nuclear electricity total net generation","Million kilowatthours",0,14811,28197
+"2022","NUEGB","Nuclear energy consumed for electricity generation by the electric power sector","Billion Btu",0,154742,294606
+"2022","NUETB","Nuclear energy consumed for electricity generation, total","Billion Btu",0,154742,294606
+"2022","NUETD","Nuclear fuel average price, all sectors","Dollars per million Btu",0,0.59,0.57
+"2022","NUEGV","Nuclear fuel expenditures in the electric power sector","Million dollars",0,90.9,168.7
+"2022","NUEGD","Nuclear fuel price in the electric power sector","Dollars per million Btu",0,0.59,0.57
+"2022","NUETV","Nuclear fuel total expenditures","Million dollars",0,90.9,168.7
+"2022","NUCAS","Nuclear generating units capacity factor","Percent",0,99,90.2
+"2022","NUGBP","Nuclear generating units net summer capacity in all sectors","Thousand kilowatts",0,1708,3568
+"2022","OJGBP","Other gases generating units net summer capacity in all sectors","Thousand kilowatts",0,0,0
+"2022","OTGBP","Other generating units net summer capacity in all sectors","Thousand kilowatts",0,0,0
+"2022","OHICB","Other hydrocarbon gas liquids (other than propane) consumed by the industrial sector","Billion Btu",0,0,0
+"2022","OHICV","Other hydrocarbon gas liquids (other than propane) expenditures in the industrial sector","Million dollars",0,0,0
+"2022","OHICD","Other hydrocarbon gas liquids (other than propane) price in the industrial sector","Dollars per million Btu",0,0,0
+"2022","OPICD","Other petroleum products average price in the industrial sector","Dollars per million Btu",0,34.14,33.47
+"2022","OPTXD","Other petroleum products average price, all end-use sectors","Dollars per million Btu",0,34.14,33.47
+"2022","OPTCD","Other petroleum products average price, all sectors","Dollars per million Btu",0,34.14,33.47
+"2022","P5RFB","Other petroleum products consumed as refinery fuel and intermediate products","Billion Btu",0,0,0
+"2022","OPCCB","Other petroleum products consumed by the commercial sector","Billion Btu",0,0,0
+"2022","OPCCP","Other petroleum products consumed by the commercial sector","Thousand barrels",0,0,0
+"2022","OPEIP","Other petroleum products consumed by the electric power sector","Thousand barrels",0,0,0
+"2022","OPEIB","Other petroleum products consumed by the electric power sector","Billion Btu",0,0,1
+"2022","OPICB","Other petroleum products consumed by the industrial sector","Billion Btu",0,3279,4727
+"2022","OPICP","Other petroleum products consumed by the industrial sector","Thousand barrels",0,615,870
+"2022","OPISB","Other petroleum products consumed by the industrial sector excluding refinery fuel and intermediate products","Billion Btu",0,3279,4727
+"2022","OPRCP","Other petroleum products consumed by the residential sector","Thousand barrels",0,0,0
+"2022","OPRCB","Other petroleum products consumed by the residential sector","Billion Btu",0,0,0
+"2022","OPACB","Other petroleum products consumed by the transportation sector","Billion Btu",31,858,2017
+"2022","OPACP","Other petroleum products consumed by the transportation sector","Thousand barrels",6,160,376
+"2022","OMTCB","Other petroleum products consumption, excluding biofuels","Billion Btu",0,3279,4727
+"2022","OPTCB","Other petroleum products total consumption","Billion Btu",31,4137,6746
+"2022","OPTCP","Other petroleum products total consumption","Thousand barrels",6,775,1247
+"2022","OPSCB","Other petroleum products total consumption adjusted for refinery fuel and intermediate products","Billion Btu",0,3279,4727
+"2022","OPTXB","Other petroleum products total end-use consumption","Billion Btu",31,4137,6745
+"2022","OPTXP","Other petroleum products total end-use consumption","Thousand barrels",6,775,1246
+"2022","OPTXV","Other petroleum products total end-use expenditures","Million dollars",0,111.9,158.2
+"2022","OPTCV","Other petroleum products total expenditures","Million dollars",0,111.9,158.2
+"2022","OPICV","Other petroleum products total expenditures in the industrial sector","Million dollars",0,111.9,158.2
+"2022","FNICP","Petrochemical feedstocks, naphtha less than 401? F, consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","FNICB","Petrochemical feedstocks, naphtha less than 401? F, consumed by the industrial sector","Billion Btu",0,0,0
+"2022","FNICV","Petrochemical feedstocks, naphtha less than 401? F, expenditures in the industrial sector","Million dollars",0,0,0
+"2022","FNICD","Petrochemical feedstocks, naphtha less than 401? F, price in the industrial sector","Dollars per million Btu",0,0,0
+"2022","FOICB","Petrochemical feedstocks, other oils equal to or greater than 401? F, consumed by the industrial sector","Billion Btu",0,0,0
+"2022","FOICP","Petrochemical feedstocks, other oils equal to or greater than 401? F, consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","FOICV","Petrochemical feedstocks, other oils equal to or greater than 401? F, expenditures in the industrial sector","Million dollars",0,0,0
+"2022","FOICD","Petrochemical feedstocks, other oils equal to or greater than 401? F, price in the industrial sector","Dollars per million Btu",0,0,0
+"2022","FSICP","Petrochemical feedstocks, still gas, consumed by the industrial sector (through 1985)","Thousand barrels",0,0,0
+"2022","FSICB","Petrochemical feedstocks, still gas, consumed by the industrial sector (through 1985)","Billion Btu",0,0,0
+"2022","FSICV","Petrochemical feedstocks, still gas, expenditures in the industrial sector (through 1985)","Million dollars",0,0,0
+"2022","FSICD","Petrochemical feedstocks, still gas, price in the industrial sector (through 1985) ","Dollars per million Btu",0,0,0
+"2022","PCTXD","Petroleum coke average price, all end-use sectors","Dollars per million Btu",0,0,0
+"2022","PCTCD","Petroleum coke average price, all sectors","Dollars per million Btu",0,0,0
+"2022","PCRFB","Petroleum coke consumed as refinery fuel","Billion Btu",0,0,0
+"2022","PCCCP","Petroleum coke consumed by the commercial sector","Thousand barrels",0,0,0
+"2022","PCCCB","Petroleum coke consumed by the commercial sector","Billion Btu",0,0,0
+"2022","PCEIB","Petroleum coke consumed by the electric power sector","Billion Btu",0,0,0
+"2022","PCEIP","Petroleum coke consumed by the electric power sector","Thousand barrels",0,0,0
+"2022","PCISB","Petroleum coke consumed by the industrial sector excluding refinery fuel","Billion Btu",0,0,0
+"2022","PCICP","Petroleum coke consumed in the industrial sector","Thousand barrels",0,0,0
+"2022","PCICB","Petroleum coke consumed in the industrial sector","Billion Btu",0,0,0
+"2022","PCCCV","Petroleum coke expenditures in the commercial sector","Million dollars",0,0,0
+"2022","PCEIV","Petroleum coke expenditures in the electric power sector","Million dollars",0,0,0
+"2022","PCICV","Petroleum coke expenditures in the industrial sector","Million dollars",0,0,0
+"2022","PCCCD","Petroleum coke price in the commercial sector","Dollars per million Btu",0,0,0
+"2022","PCEID","Petroleum coke price in the electric power sector","Dollars per million Btu",0,0,0
+"2022","PCICD","Petroleum coke price in the industrial sector","Dollars per million Btu",0,0,0
+"2022","PCTCB","Petroleum coke total consumption","Billion Btu",0,0,0
+"2022","PCTCP","Petroleum coke total consumption","Thousand barrels",0,0,0
+"2022","PCSCB","Petroleum coke total consumption adjusted for process fuel","Billion Btu",0,0,0
+"2022","PCTXB","Petroleum coke total end-use consumption","Billion Btu",0,0,0
+"2022","PCTXP","Petroleum coke total end-use consumption","Thousand barrels",0,0,0
+"2022","PCTXV","Petroleum coke total end-use expenditures","Million dollars",0,0,0
+"2022","PCTCV","Petroleum coke total expenditures","Million dollars",0,0,0
+"2022","PACAS","Petroleum generating units capacity factor","Percent",0,1.5,1
+"2022","PAGBP","Petroleum generating units net summer capacity in all sectors","Thousand kilowatts",0,1351,1536
+"2022","PLICP","Plant condensate consumed by the industrial sector (through 1983)","Thousand barrels",0,0,0
+"2022","PLICB","Plant condensate consumed by the industrial sector (through 1983)","Billion Btu",0,0,0
+"2022","PHVHN","Plug-in hybrid electric vehicle (PHEV) light-duty stocks","Thousands of registered vehicles",3,21.2,20.1
+"2022","PECCD","Primary energy average price in the commercial sector","Dollars per million Btu",14.77,17.01,14.06
+"2022","PEEID","Primary energy average price in the electric power sector","Dollars per million Btu",0,3.65,4.28
+"2022","PEICD","Primary energy average price in the industrial sector","Dollars per million Btu",20.77,18.24,10.32
+"2022","PERCD","Primary energy average price in the residential sector","Dollars per million Btu",16.93,19.48,18.59
+"2022","PEACD","Primary energy average price in the transportation sector","Dollars per million Btu",34.76,33.36,30.26
+"2022","PETXD","Primary energy average price, all end-use sectors","Dollars per million Btu",21.53,27.03,23.37
+"2022","PETCD","Primary energy average price, all sectors","Dollars per million Btu",21.53,19.18,16.21
+"2022","PECSB","Primary energy consumed by the commercial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",18042,97901,118387
+"2022","PEISB","Primary energy consumed by the industrial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",3618,54652,251251
+"2022","PERSB","Primary energy consumed by the residential sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",12934,109802,122694
+"2022","PEASB","Primary energy consumed by the transportation sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",13933,361936,720566
+"2022","PESCB","Primary energy total consumption, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",48527,939918,1940771
+"2022","PETXV","Primary energy total end-use expenditures","Million dollars",1044.9,16873.7,28344.3
+"2022","PETCV","Primary energy total expenditures","Million dollars",1044.9,18026,31461.9
+"2022","PECCV","Primary energy total expenditures in the commercial sector","Million dollars",266.5,1665.5,1665
+"2022","PEEIV","Primary energy total expenditures in the electric power sector","Million dollars",0,1152.3,3117.7
+"2022","PEICV","Primary energy total expenditures in the industrial sector","Million dollars",75.1,996.9,2593.2
+"2022","PERCV","Primary energy total expenditures in the residential sector","Million dollars",218.9,2138.8,2280.5
+"2022","PEACV","Primary energy total expenditures in the transportation sector","Million dollars",484.3,12072.5,21805.6
+"2022","PQTXD","Propane average price, all end-use sectors","Dollars per million Btu",NA,29.99,28.1
+"2022","PQTCD","Propane average price, all sectors","Dollars per million Btu",27.62,29.99,28.1
+"2022","PQRFB","Propane consumed as refinery fuel","Billion Btu",NA,0,0
+"2022","PQCCB","Propane consumed by the commercial sector","Billion Btu",12,3332,7828
+"2022","PQCCP","Propane consumed by the commercial sector","Thousand barrels",3,NA,2038
+"2022","PQICP","Propane consumed by the industrial sector","Thousand barrels",12,521,1289
+"2022","PQICB","Propane consumed by the industrial sector","Billion Btu",NA,NA,4952
+"2022","PQRCP","Propane consumed by the residential sector","Thousand barrels",10,1744,3007
+"2022","PQRCB","Propane consumed by the residential sector","Billion Btu",NA,6700,11550
+"2022","PQACB","Propane consumed by the transportation sector","Billion Btu",NA,172,200
+"2022","PQACP","Propane consumed by the transportation sector","Thousand barrels",1,45,52
+"2022","PQISB","Propane consumed in the industrial sector excluding refinery fuel","Billion Btu",45,2002,4952
+"2022","PQCCV","Propane expenditures in the commercial sector","Million dollars",0.3,74.6,167.8
+"2022","PQICV","Propane expenditures in the industrial sector","Million dollars",NA,NA,98.6
+"2022","PQRCV","Propane expenditures in the residential sector","Million dollars",1.5,244.3,417.9
+"2022","PQACV","Propane expenditures in the transportation sector","Million dollars",0.1,4.3,4.9
+"2022","PQCCD","Propane price in the commercial sector","Dollars per million Btu",22.4,22.4,21.44
+"2022","PQICD","Propane price in the industrial sector","Dollars per million Btu",21.38,21.38,NA
+"2022","PQRCD","Propane price in the residential sector","Dollars per million Btu",NA,36.46,36.18
+"2022","PQACD","Propane price in the transportation sector","Dollars per million Btu",23.36,NA,24.7
+"2022","PQTCB","Propane total consumption","Billion Btu",NA,12207,24531
+"2022","PQTCP","Propane total consumption","Thousand barrels",26,3178,6387
+"2022","PQSCB","Propane total consumption adjusted for process fuel","Billion Btu",99,12207,24531
+"2022","PQTXP","Propane total end-use consumption","Thousand barrels",NA,3178,NA
+"2022","PQTXB","Propane total end-use consumption","Billion Btu",99,12207,24531
+"2022","PQTXV","Propane total end-use expenditures","Million dollars",2.7,366.1,689.3
+"2022","PQTCV","Propane total expenditures","Million dollars",2.7,366.1,689.3
+"2022","PYICB","Propylene from refineries consumed by the industrial sector","Billion Btu",0,NA,0
+"2022","PYICP","Propylene from refineries consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","PYTCB","Propylene from refineries total consumption","Billion Btu",0,0,0
+"2022","PYTCP","Propylene from refineries total consumption","Thousand barrels",0,0,0
+"2022","GDPRX","Real gross domestic product (GDP)","Million chained (2017) dollars",144554.6,416406.2,580475.2
+"2022","B1ACP","Renewable diesel consumed by the transportation sector","Thousand barrels",0,0,0
+"2022","B1ACB","Renewable diesel consumed by the transportation sector","Billion Btu",0,0,0
+"2022","B1AUP","Renewable diesel product supplied portion to the transportation sector","Thousand barrels",0,0,0
+"2022","B1AUB","Renewable diesel product supplied portion to the transportation sector","Billion Btu",0,0,0
+"2022","B1PRB","Renewable diesel production","Billion Btu",0,NA,NA
+"2022","B1RIP","Renewable diesel refinery and blender net inputs","Thousand barrels",0,0,0
+"2022","B1RIB","Renewable diesel refinery and blender net inputs","Billion Btu",0,0,0
+"2022","B1ABB","Renewable diesel refinery and blender net inputs portion to the transportation sector","Billion Btu",0,0,0
+"2022","B1ABP","Renewable diesel refinery and blender net inputs portion to the transportation sector","Thousand barrels",0,0,0
+"2022","B1TCP","Renewable diesel total consumption","Thousand barrels",0,0,0
+"2022","B1TCB","Renewable diesel total consumption","Billion Btu",0,0,0
+"2022","REPRB","Renewable energy production","Billion Btu",1701,29919,159390
+"2022","RECCB","Renewable energy sources consumed by the commercial sector","Billion Btu",1263,3313,14927
+"2022","REEIB","Renewable energy sources consumed by the electric power sector","Billion Btu",76,15919,49690
+"2022","REICB","Renewable energy sources consumed by the industrial sector","Billion Btu",14,1097,59919
+"2022","RERCB","Renewable energy sources consumed by the residential sector","Billion Btu",391,10495,26155
+"2022","REACB","Renewable energy sources consumed by the transportation sector","Billion Btu",879,20432,34947
+"2022","RETCB","Renewable energy total consumption","Billion Btu",2622,51255,185638
+"2022","REGBP","Renewable energy total generating units net summer capacity in all sectors","Thousand kilowatts",31,1432,4474
+"2022","TPOPP","Resident population including Armed Forces","Thousand",677,6192,8683
+"2022","RFSCB","Residential fuel oil total consumption excluding process fuel","Billion Btu",0,1214,3777
+"2022","RFTXD","Residual fuel oil average price, all end-use sectors","Dollars per million Btu",0,20.01,13.74
+"2022","RFTCD","Residual fuel oil average price, all sectors","Dollars per million Btu",0,21.55,14
+"2022","RFRFB","Residual fuel oil consumed as refinery fuel","Billion Btu",0,0,0
+"2022","RFCCP","Residual fuel oil consumed by the commercial sector","Thousand barrels",0,5,0
+"2022","RFCCB","Residual fuel oil consumed by the commercial sector","Billion Btu",0,32,2
+"2022","RFEIP","Residual fuel oil consumed by the electric power sector","Thousand barrels",0,86,33
+"2022","RFEIB","Residual fuel oil consumed by the electric power sector","Billion Btu",0,541,210
+"2022","RFICP","Residual fuel oil consumed by the industrial sector","Thousand barrels",0,9,138
+"2022","RFICB","Residual fuel oil consumed by the industrial sector","Billion Btu",0,58,868
+"2022","RFISB","Residual fuel oil consumed by the industrial sector excluding refinery fuel","Billion Btu",0,58,868
+"2022","RFACB","Residual fuel oil consumed by the transportation sector","Billion Btu",0,584,2697
+"2022","RFACP","Residual fuel oil consumed by the transportation sector","Thousand barrels",0,93,429
+"2022","RFCCV","Residual fuel oil expenditures in the commercial sector","Million dollars",0,0.6,0
+"2022","RFEIV","Residual fuel oil expenditures in the electric power sector","Million dollars",0,12.7,3.9
+"2022","RFICV","Residual fuel oil expenditures in the industrial sector","Million dollars",0,1.1,14.7
+"2022","RFACV","Residual fuel oil expenditures in the transportation sector","Million dollars",0,11.8,34.3
+"2022","RFCCD","Residual fuel oil price in the commercial sector","Dollars per million Btu",0,18.94,16.9
+"2022","RFEID","Residual fuel oil price in the electric power sector","Dollars per million Btu",0,23.47,18.52
+"2022","RFICD","Residual fuel oil price in the industrial sector","Dollars per million Btu",0,18.94,16.9
+"2022","RFACD","Residual fuel oil price in the transportation sector","Dollars per million Btu",0,20.17,12.72
+"2022","RFTCB","Residual fuel oil total consumption","Billion Btu",0,1214,3777
+"2022","RFTCP","Residual fuel oil total consumption","Thousand barrels",0,193,601
+"2022","RFTXB","Residual fuel oil total end-use consumption","Billion Btu",0,673,3567
+"2022","RFTXP","Residual fuel oil total end-use consumption","Thousand barrels",0,107,567
+"2022","RFTXV","Residual fuel oil total end-use expenditures","Million dollars",0,13.5,49
+"2022","RFTCV","Residual fuel oil total expenditures","Million dollars",0,26.2,52.9
+"2022","SOCCB","Solar energy consumed by the commercial sector","Billion Btu",232,1143,294
+"2022","SOICB","Solar energy consumed by the industrial sector","Billion Btu",0,98,17
+"2022","SORCB","Solar energy consumed by the residential sector","Billion Btu",369,3317,1564
+"2022","SOEGB","Solar energy consumed for electricity generation by the electric power sector","Billion Btu",76,2369,15778
+"2022","SOTCB","Solar energy total consumption","Billion Btu",678,6928,17653
+"2022","SOTXB","Solar energy total end-use consumption","Billion Btu",602,4559,1875
+"2022","SOGBP","Solar generating units net summer capacity in all sectors","Thousand kilowatts",19,512,2793
+"2022","SOR7P","Solar photovoltaic electricity generation by small-scale applications in the residential sector","Million kilowatthours",108,938,300
+"2022","SPCAS","Solar photovoltaic generating units capacity factor","Percent",14,19,21.5
+"2022","SOCCP","Solar thermal and photovoltaic electricity net generation in the commercial sector","Million kilowatthours",68,335,86
+"2022","SOEGP","Solar thermal and photovoltaic electricity net generation in the electric power sector","Million kilowatthours",22,694,4624
+"2022","SOICP","Solar thermal and photovoltaic electricity net generation in the industrial sector","Million kilowatthours",0,29,5
+"2022","SOTGP","Solar thermal and photovoltaic electricity total net generation","Million kilowatthours",198,1996,5015
+"2022","SHCAS","Solar thermal generating units capacity factor","Percent",0,0,0
+"2022","SNICB","Special naphthas consumed by the industrial sector","Billion Btu",0,2679,2917
+"2022","SNICP","Special naphthas consumed by the industrial sector","Thousand barrels",0,510,556
+"2022","SNICV","Special naphthas expenditures in the industrial sector","Million dollars",0,92.5,100.7
+"2022","SNICD","Special naphthas price in the industrial sector","Dollars per million Btu",0,34.51,34.51
+"2022","SGICP","Still gas consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","SGICB","Still gas consumed by the industrial sector","Billion Btu",0,0,0
+"2022","SFCCB","Supplemental gaseous fuels consumed by the commercial sector","Billion Btu",0,115,15
+"2022","SFEIB","Supplemental gaseous fuels consumed by the electric power sector","Billion Btu",0,150,69
+"2022","SFINB","Supplemental gaseous fuels consumed by the industrial sector","Billion Btu",0,25,22
+"2022","SFRCB","Supplemental gaseous fuels consumed by the residential sector","Billion Btu",0,128,17
+"2022","SFTCB","Supplemental gaseous fuels total consumption","Billion Btu",0,418,123
+"2022","LOCCB","The commercial sector's share of electrical system energy losses","Billion Btu",39496,157226,380555
+"2022","LOICB","The industrial sector's share of electrical system energy losses","Billion Btu",985,20500,93596
+"2022","LORCB","The residential sector's share of electrical system energy losses","Billion Btu",13648,159742,259329
+"2022","LOACB","The transportation sector's share of electrical system energy losses","Billion Btu",1358,2233,721
+"2022","ELGBP","Total (all fuels) electric generating units net summer capacity in all sectors","Thousand kilowatts",51,11908,29169
+"2022","LDVHN","Total (all fuels) vehicle light-duty stocks","Thousands of registered vehicles",296.5,4703.5,7094.1
+"2022","BXSUB","Total biofuels (excluding fuel ethanol) product supplied","Billion Btu",31,858,2018
+"2022","BXSUP","Total biofuels (excluding fuel ethanol) product supplied","Thousand barrels",6,160,377
+"2022","EVCHN","Total charging ports for electric vehicles","Number",1576,5351,4712
+"2022","DATCB","Total distillate fuel oil, biodiesel, and renewable diesel consumption","Billion Btu",3730,94881,196383
+"2022","DATCP","Total distillate fuel oil, biodiesel, and renewable diesel consumption","Thousand barrels",647,16464,34084
+"2022","ELVHN","Total electric vehicle (EV) light-duty stocks","Thousands of registered vehicles",8,59.9,67.6
+"2022","EVCHP","Total electric vehicle charging locations","Number",349,1546,1368
+"2022","LOTCB","Total electrical system energy losses","Billion Btu",55487,339701,734201
+"2022","LOTXB","Total electrical system energy losses allocated to the end-use sectors","Billion Btu",55487,339701,734201
+"2022","TETXD","Total end-use energy average price","Dollars per million Btu",30.84,29.98,25.57
+"2022","TNTCB","Total end-use energy consumption","Billion Btu",85665,867925,1715669
+"2022","TETXV","Total end-use energy expenditures","Million dollars",2574.6,24824,42559.3
+"2022","TETXB","Total end-use sector energy consumption","Billion Btu",141151,1207626,2449870
+"2022","TECCE","Total energy CO2 emissions for the commercial sector","Million metric tons CO2",0.9,NA,NA
+"2022","TEEIE","Total energy CO2 emissions for the electric power sector","Million metric tons CO2",NA,NA,22.9
+"2022","TERCE","Total energy CO2 emissions for the residential sector","Million metric tons CO2",NA,6,6.4
+"2022","TETCD","Total energy average price","Dollars per million Btu",30.84,29.98,25.57
+"2022","TECCD","Total energy average price in the commercial sector","Dollars per million Btu",32.7,26.86,23.52
+"2022","TEICD","Total energy average price in the industrial sector","Dollars per million Btu",21.05,20.28,12.76
+"2022","TERCD","Total energy average price in the residential sector","Dollars per million Btu",26.76,30.15,30.18
+"2022","TEACD","Total energy average price in the transportation sector","Dollars per million Btu",34.19,33.33,30.26
+"2022","TETCB","Total energy consumption","Billion Btu",141151,1207626,2449868
+"2022","TECCB","Total energy consumption in the commercial sector","Billion Btu",82645,351022,736232
+"2022","TEEIB","Total energy consumption in the electric power sector plus net imports of electricity into the United States","Billion Btu",76,325616,747634
+"2022","TEICB","Total energy consumption in the industrial sector","Billion Btu",5222,87877,418938
+"2022","TERCB","Total energy consumption in the residential sector","Billion Btu",35568,373086,558266
+"2022","TEACB","Total energy consumption in the transportation sector","Billion Btu",17716,395641,736435
+"2022","TETPB","Total energy consumption per capita","Million Btu",208.6,195,282.1
+"2022","TECPB","Total energy consumption per capita in the commercial sector","Million Btu",122.1,56.7,84.8
+"2022","TEIPB","Total energy consumption per capita in the industrial sector","Million Btu",7.7,14.2,48.2
+"2022","TERPB","Total energy consumption per capita in the residential sector","Million Btu",52.6,60.2,64.3
+"2022","TEAPB","Total energy consumption per capita in the transportation sector","Million Btu",26.2,63.9,84.8
+"2022","TETGR","Total energy consumption per dollar of real gross domestic product (GDP)","Thousand Btu per chained (2017) dollar",0.98,2.9,4.22
+"2022","TETCV","Total energy expenditures","Million dollars",2574.6,24824,42559.3
+"2022","TECCV","Total energy expenditures in the commercial sector","Million dollars",1403.6,5160.4,8285.7
+"2022","TEICV","Total energy expenditures in the industrial sector","Million dollars",89.2,1357.3,3940.4
+"2022","TERCV","Total energy expenditures in the residential sector","Million dollars",576.2,6196.7,8513.6
+"2022","TEACV","Total energy expenditures in the transportation sector","Million dollars",505.7,12109.6,21819.7
+"2022","TETPV","Total energy expenditures per capita","Dollars",3804.5,4008.8,4901.2
+"2022","TEPFB","Total energy used as process fuel and other consumption that has no direct fuel costs","Billion Btu",57680,379965,785739
+"2022","TERFB","Total energy used as refinery fuel and intermediate products","Billion Btu",0,0,0
+"2022","TNCSB","Total net energy consumed by the commercial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",42916,192152,352300
+"2022","TNISB","Total net energy consumed by the industrial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",4238,66941,308781
+"2022","TNRSB","Total net energy consumed by the residential sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",21529,205561,282094
+"2022","TNASB","Total net energy consumed by the transportation sector, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",14789,363275,721009
+"2022","TNSCB","Total net energy consumption, adjusted for process fuel, intermediate products, and fuels with no direct cost","Billion Btu",83471,827928,1664185
+"2022","PMTCE","Total petroleum, excluding biofuels, CO2 emissions for all sectors","Million metric tons CO2  ",NA,28.3,NA
+"2022","PMEIE","Total petroleum, excluding biofuels, CO2 emissions for the electric power sector","Million metric tons CO2",NA,0.1,NA
+"2022","PMACE","Total petroleum, excluding biofuels, CO2 emissions for the transportation sector","Million metric tons CO2",NA,NA,49
+"2022","TEPRB","Total primary energy production","Billion Btu",1701,219163,826347
+"2022","UOICB","Unfinished oils consumed by the industrial sector","Billion Btu",0,0,0
+"2022","UOICP","Unfinished oils consumed by the industrial sector","Thousand barrels",0,0,0
+"2022","USICB","Unfractionated streams consumed by the industrial sector (through 1983)","Billion Btu",0,0,0
+"2022","USICP","Unfractionated streams consumed by the industrial sector (through 1983)","Thousand barrels",0,0,0
+"2022","WSEIB","Waste consumed by the electric power sector","Billion Btu",0,5779,6291
+"2022","WSCCB","Waste energy consumed by the commercial sector","Billion Btu",1001,0,9228
+"2022","WSICB","Waste energy consumed by the industrial sector","Billion Btu",0,304,2371
+"2022","WSTCB","Waste energy total consumption","Billion Btu",1001,6083,17890
+"2022","WSGBP","Waste generating units net summer capacity in all sectors","Thousand kilowatts",12,137,306
+"2022","WZEIB","Waste, excluding biodiesel, consumed by the electric power sector","Billion Btu",0,5779,6290
+"2022","WZTCB","Waste, excluding biodiesel, total consumption","Billion Btu",1001,6083,17888
+"2022","WXICP","Waxes consumed by the industrial sector","Thousand barrels",0,21,40
+"2022","WXICB","Waxes consumed by the industrial sector","Billion Btu",0,114,219
+"2022","WXICV","Waxes expenditures in the industrial sector","Million dollars",0,4.6,8.9
+"2022","WXICD","Waxes price in the industrial sector","Dollars per million Btu",0,40.55,40.55
+"2022","WYCCP","Wind electricity net generation in the commercial sector","Million kilowatthours",0,0,0
+"2022","WYEGP","Wind electricity net generation in the electric power sector","Million kilowatthours",0,498,51
+"2022","WYICP","Wind electricity net generation in the industrial sector","Million kilowatthours",0,0,0
+"2022","WYTCP","Wind electricity total net generation","Million kilowatthours",0,498,51
+"2022","WYCCB","Wind energy consumed by the commercial sector","Billion Btu",0,0,0
+"2022","WYICB","Wind energy consumed by the industrial sector","Billion Btu",0,0,0
+"2022","WYEGB","Wind energy consumed for electricity generation by the electric power sector","Billion Btu",0,1698,174
+"2022","WYTCB","Wind energy total consumption","Billion Btu",0,1698,174
+"2022","WYTXB","Wind energy total end-use consumption","Billion Btu",0,0,0
+"2022","WYTXP","Wind energy total end-use net generation","Million kilowatthours",0,0,0
+"2022","WYCAS","Wind generating units capacity factor","Percent",0,29.9,48.4
+"2022","WYGBP","Wind generating units net summer capacity in all sectors","Thousand kilowatts",0,190,12
+"2022","WWTXD","Wood and waste average price, all end-use sectors","Dollars per million Btu",0.84,10.72,4.35
+"2022","WWTCD","Wood and waste average price, all sectors","Dollars per million Btu",0.84,5.91,4.15
+"2022","WWEIB","Wood and waste consumed by the electric power sector","Billion Btu",0,5779,29860
+"2022","WWCCB","Wood and waste consumed in the commercial sector","Billion Btu",1001,1487,12860
+"2022","WWICB","Wood and waste consumed in the industrial sector","Billion Btu",0,777,59614
+"2022","WWCSB","Wood and waste energy consumed in the commercial sector at a cost","Billion Btu",1001,872,10648
+"2022","WWCXB","Wood and waste energy consumed in the commercial sector at no cost","Billion Btu",0,615,2212
+"2022","WWISB","Wood and waste energy consumed in the industrial sector at a cost","Billion Btu",0,414,48376
+"2022","WWIXB","Wood and waste energy consumed in the industrial sector at no cost","Billion Btu",0,363,11238
+"2022","WWPRB","Wood and waste energy production","Billion Btu",1001,14651,135863
+"2022","WWSCB","Wood and waste energy total consumption, adjusted for fuels with no direct cost","Billion Btu",1001,9649,98180
+"2022","WWCCV","Wood and waste expenditures in the commercial sector","Million dollars",0.8,6.7,26.3
+"2022","WWEIV","Wood and waste expenditures in the electric power sector","Million dollars",0,15.6,110
+"2022","WWICV","Wood and waste expenditures in the industrial sector","Million dollars",0,1.1,149.5
+"2022","WWCCD","Wood and waste price in the commercial sector","Dollars per million Btu",0.84,7.62,2.47
+"2022","WWEID","Wood and waste price in the electric power sector","Dollars per million Btu",0,2.69,3.69
+"2022","WWICD","Wood and waste price in the industrial sector","Dollars per million Btu",0,2.6,3.09
+"2022","WWTCB","Wood and waste total consumption","Billion Btu",1001,14651,126109
+"2022","WWTXB","Wood and waste total end-use consumption","Billion Btu",1001,8872,96249
+"2022","WWTXV","Wood and waste total end-use expenditures","Million dollars",0.8,41.5,297.3
+"2022","WWTCV","Wood and waste total expenditures","Million dollars",0.8,57.1,407.3
+"2022","WDEIB","Wood consumed by the electric power sector","Billion Btu",0,0,23569
+"2022","WDCCB","Wood energy consumed by the commercial sector","Billion Btu",0,1487,3632
+"2022","WDICB","Wood energy consumed by the industrial sector","Billion Btu",0,473,57243
+"2022","WDRCB","Wood energy consumed by the residential sector","Billion Btu",0,6608,23775
+"2022","WDRSB","Wood energy consumed in the residential sector at a cost","Billion Btu",0,2584,9296
+"2022","WDRXB","Wood energy consumed in the residential sector at no cost","Billion Btu",0,4024,14479
+"2022","WDPRB","Wood energy production","Billion Btu",0,8568,117973
+"2022","WDTCB","Wood energy total consumption","Billion Btu",0,8568,108219
+"2022","WDRCV","Wood expenditures in the residential sector","Million dollars",0,33.8,121.5
+"2022","WDGBP","Wood generating units net summer capacity in all sectors","Thousand kilowatts",0,3,497
+"2022","WDRCD","Wood price in the residential sector","Dollars per million Btu",0,13.07,13.07
